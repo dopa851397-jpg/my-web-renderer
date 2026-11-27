@@ -1,0 +1,2402 @@
+[
+{
+"path": "third_party/dawn/src/dawn/node/NapiSymbols.cpp",
+"bytes": 2860,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/README.md",
+"bytes": 14864,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/ManualConstructors.h",
+"bytes": 2154,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/Module.cpp",
+"bytes": 5056,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/ManualConstructors.cpp",
+"bytes": 3973,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/index.js",
+"bytes": 183,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/worker-test.mjs",
+"bytes": 728,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/Module.h",
+"bytes": 1764,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/test.mjs",
+"bytes": 9864,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/gen_napi_symbols.py",
+"bytes": 2354,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/cts.cjs",
+"bytes": 139,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/DawnExtensions.idl",
+"bytes": 5816,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/WebGPU.h.tmpl",
+"bytes": 11519,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/WebGPUCommon.tmpl",
+"bytes": 7012,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/Core.h",
+"bytes": 30384,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/Browser.idl",
+"bytes": 4078,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/WebGPU.cpp.tmpl",
+"bytes": 18440,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/Core.cpp",
+"bytes": 8777,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/interop/NodeAPI.h",
+"bytes": 2596,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUBindGroupLayout.h",
+"bytes": 2654,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUCommandBuffer.cpp",
+"bytes": 2353,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUResourceTable.h",
+"bytes": 2892,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/IteratorHelper.h",
+"bytes": 3850,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUQueue.h",
+"bytes": 3583,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUAdapter.h",
+"bytes": 2958,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Split.h",
+"bytes": 1956,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUQuerySet.cpp",
+"bytes": 2836,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Converter.h",
+"bytes": 22900,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUSampler.cpp",
+"bytes": 2269,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/TogglesLoader.h",
+"bytes": 2960,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUDevice.h",
+"bytes": 7121,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderBundleEncoder.h",
+"bytes": 5473,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUTextureView.cpp",
+"bytes": 2289,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUComputePassEncoder.h",
+"bytes": 4551,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUSupportedLimits.h",
+"bytes": 4633,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderPassEncoder.h",
+"bytes": 7152,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUAdapter.cpp",
+"bytes": 12171,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUQuerySet.h",
+"bytes": 2711,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUPipelineLayout.h",
+"bytes": 2640,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUTexture.cpp",
+"bytes": 6543,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/AsyncRunner.cpp",
+"bytes": 3709,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Split.cpp",
+"bytes": 2443,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUComputePipeline.h",
+"bytes": 2914,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderBundle.h",
+"bytes": 2612,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUResourceTable.cpp",
+"bytes": 3586,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUTextureView.h",
+"bytes": 2592,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUShaderModule.cpp",
+"bytes": 6389,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUBuffer.h",
+"bytes": 4251,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/AsyncRunner.h",
+"bytes": 5352,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Errors.h",
+"bytes": 5057,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUTexture.h",
+"bytes": 3445,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUCommandEncoder.h",
+"bytes": 5400,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderPassEncoder.cpp",
+"bytes": 11092,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUDevice.cpp",
+"bytes": 28072,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUComputePipeline.cpp",
+"bytes": 2922,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUBuffer.cpp",
+"bytes": 7738,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderPipeline.cpp",
+"bytes": 2908,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Errors.cpp",
+"bytes": 8026,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUBindGroupLayout.cpp",
+"bytes": 2368,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUSupportedFeatures.h",
+"bytes": 2554,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUBindGroup.cpp",
+"bytes": 2277,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUAdapterInfo.cpp",
+"bytes": 6579,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUQueue.cpp",
+"bytes": 5419,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUCommandEncoder.cpp",
+"bytes": 10626,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUSupportedFeatures.cpp",
+"bytes": 3342,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Flags.h",
+"bytes": 2155,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderPipeline.h",
+"bytes": 2898,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUSampler.h",
+"bytes": 2541,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUCommandBuffer.h",
+"bytes": 2629,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/TogglesLoader.cpp",
+"bytes": 2556,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUBindGroup.h",
+"bytes": 2564,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUShaderModule.h",
+"bytes": 2913,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUSupportedLimits.cpp",
+"bytes": 6453,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Flags.cpp",
+"bytes": 1939,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUComputePassEncoder.cpp",
+"bytes": 6052,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderBundle.cpp",
+"bytes": 2436,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPU.cpp",
+"bytes": 12003,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/EventTarget.h",
+"bytes": 4934,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPURenderBundleEncoder.cpp",
+"bytes": 8307,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPU.h",
+"bytes": 2682,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/Converter.cpp",
+"bytes": 91499,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUPipelineLayout.cpp",
+"bytes": 2358,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/EventTarget.cpp",
+"bytes": 6447,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/binding/GPUAdapterInfo.h",
+"bytes": 3047,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/standalone/Polyfills.cpp",
+"bytes": 51975,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/standalone/EventLoop.cpp",
+"bytes": 8280,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/standalone/EventLoop.h",
+"bytes": 7109,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/standalone/Polyfills.h",
+"bytes": 2406,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/standalone/main.cpp",
+"bytes": 15576,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/utils/Debug.h",
+"bytes": 6118,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/napi_v8/napi_v8.h",
+"bytes": 8888,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/dawn/node/napi_v8/napi_v8.cpp",
+"bytes": 82335,
+"reason": "Dawn Node.js/Deno bindings \u2014 not needed for native runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/BUILD.cmake",
+"bytes": 2082,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/BUILD.cmake",
+"bytes": 2082,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/fuzz.h",
+"bytes": 2276,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/BUILD.cmake",
+"bytes": 5790,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/fuzz.cc",
+"bytes": 9944,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/main_fuzz.cc",
+"bytes": 4105,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/BUILD.cfg",
+"bytes": 651,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/dis/main.cc",
+"bytes": 18119,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/dis/BUILD.cmake",
+"bytes": 3554,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/dis/BUILD.cfg",
+"bytes": 211,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/as/main.cc",
+"bytes": 12102,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/as/BUILD.cmake",
+"bytes": 3518,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir/as/BUILD.cfg",
+"bytes": 240,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/init.cc",
+"bytes": 5689,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/BUILD.cmake",
+"bytes": 4039,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/runner.h",
+"bytes": 3439,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/helper.h",
+"bytes": 2821,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/BUILD.cfg",
+"bytes": 39,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/options.h",
+"bytes": 2771,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/init.h",
+"bytes": 2410,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/common/helper.cc",
+"bytes": 4296,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir_mesa/BUILD.cmake",
+"bytes": 4469,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir_mesa/main_fuzz.cc",
+"bytes": 4686,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/ir_mesa/BUILD.cfg",
+"bytes": 667,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl_mesa/BUILD.cmake",
+"bytes": 4291,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl_mesa/main_fuzz.cc",
+"bytes": 3470,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl_mesa/BUILD.cfg",
+"bytes": 558,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl/fuzz.h",
+"bytes": 2141,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl/BUILD.cmake",
+"bytes": 5449,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl/fuzz.cc",
+"bytes": 7608,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl/main_fuzz.cc",
+"bytes": 2909,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl/BUILD.cfg",
+"bytes": 477,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl/dictionary.txt.tmpl",
+"bytes": 2835,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/fuzz/wgsl/dictionary.txt",
+"bytes": 9338,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/main_bench.cc",
+"bytes": 5081,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/enums_core_bench.cc.tmpl",
+"bytes": 1369,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/validator_bench.cc",
+"bytes": 2484,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/BUILD.cmake",
+"bytes": 5060,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/generate_benchmark_inputs.py",
+"bytes": 8588,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/BUILD.cfg",
+"bytes": 337,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/enums_wgsl_bench.cc.tmpl",
+"bytes": 1050,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/bench.cc",
+"bytes": 2545,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/enums_wgsl_bench.cc",
+"bytes": 8782,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/enums_core_bench.cc",
+"bytes": 38383,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/bench.h",
+"bytes": 2844,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/msl/BUILD.cmake",
+"bytes": 3062,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/msl/BUILD.cfg",
+"bytes": 72,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/msl/writer_bench.cc",
+"bytes": 4061,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/hlsl/BUILD.cmake",
+"bytes": 3072,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/hlsl/BUILD.cfg",
+"bytes": 73,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/hlsl/writer_bench.cc",
+"bytes": 2937,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/spirv/BUILD.cmake",
+"bytes": 3057,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/spirv/BUILD.cfg",
+"bytes": 72,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/spirv/writer_bench.cc",
+"bytes": 3012,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/wgsl/reader_bench.cc",
+"bytes": 2134,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/wgsl/BUILD.cmake",
+"bytes": 3086,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/wgsl/BUILD.cfg",
+"bytes": 73,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/wgsl/writer_bench.cc",
+"bytes": 2124,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/glsl/BUILD.cmake",
+"bytes": 3085,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/glsl/BUILD.cfg",
+"bytes": 73,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/bench/glsl/writer_bench.cc",
+"bytes": 3248,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/tint/main.cc",
+"bytes": 77285,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/tint/BUILD.cmake",
+"bytes": 4782,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/tint/BUILD.cfg",
+"bytes": 109,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/common/BUILD.cmake",
+"bytes": 3620,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/common/helper.h",
+"bytes": 13799,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/common/helper.cc",
+"bytes": 28239,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/info/main.cc",
+"bytes": 11594,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/info/BUILD.cmake",
+"bytes": 3278,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/dawn/src/tint/cmd/info/BUILD.cfg",
+"bytes": 114,
+"reason": "Tint CLI tools/fuzzers \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_mutate_pointer.h",
+"bytes": 3153,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_array.h",
+"bytes": 2325,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/instruction_descriptor.cpp",
+"bytes": 4684,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_function.h",
+"bytes": 2374,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_relaxed_decoration.h",
+"bytes": 2327,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_context.cpp",
+"bytes": 2236,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_parameter.h",
+"bytes": 3080,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_make_vector_operation_dynamic.cpp",
+"bytes": 4303,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_opselect_with_conditional_branch.h",
+"bytes": 2558,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_invert_comparison_operator.h",
+"bytes": 2504,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_matrix.cpp",
+"bytes": 2924,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_parameter.cpp",
+"bytes": 8521,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/call_graph.cpp",
+"bytes": 6725,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_composite.cpp",
+"bytes": 5672,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_function_variables.cpp",
+"bytes": 3341,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_flatten_conditional_branch.cpp",
+"bytes": 46528,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_vector_shuffle.cpp",
+"bytes": 9507,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/replayer.cpp",
+"bytes": 7036,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_dead_block.cpp",
+"bytes": 7920,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_parameter_with_global.h",
+"bytes": 2868,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_no_contraction_decoration.h",
+"bytes": 2318,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_synonym.h",
+"bytes": 3807,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_split_block.h",
+"bytes": 2526,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_inline_function.cpp",
+"bytes": 14819,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/data_descriptor.cpp",
+"bytes": 2024,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_vector.h",
+"bytes": 2061,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/random_generator.h",
+"bytes": 1384,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_linear_algebra_instruction.h",
+"bytes": 3747,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_composite_insert.cpp",
+"bytes": 9499,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_parameter_with_global.cpp",
+"bytes": 8293,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_loop_preheader.h",
+"bytes": 2282,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_irrelevant_id.cpp",
+"bytes": 4847,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_scalar.h",
+"bytes": 2240,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_composite_construct.cpp",
+"bytes": 13704,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_inline_function.h",
+"bytes": 3195,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_expand_vector_reduction.cpp",
+"bytes": 6711,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_permute_function_parameters.h",
+"bytes": 2584,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/id_use_descriptor.h",
+"bytes": 1859,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_dead_break.h",
+"bytes": 3372,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_selection_control.cpp",
+"bytes": 2617,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_commutable_operands.h",
+"bytes": 1938,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_copy_memory_with_load_store.h",
+"bytes": 2271,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/added_function_reducer.h",
+"bytes": 8838,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_wrap_vector_synonym.h",
+"bytes": 3475,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_store.h",
+"bytes": 3236,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_function.h",
+"bytes": 5740,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_copy_object_with_store_load.h",
+"bytes": 2604,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_wrap_region_in_selection.cpp",
+"bytes": 6537,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fuzzer.cpp",
+"bytes": 19611,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_relaxed_decoration.cpp",
+"bytes": 5061,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_early_terminator_wrapper.cpp",
+"bytes": 4404,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_boolean.h",
+"bytes": 1816,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_pointer.cpp",
+"bytes": 2779,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_wrap_early_terminator_in_function.h",
+"bytes": 3042,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_boolean_constant_with_constant_binary.h",
+"bytes": 3440,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_copy_memory.cpp",
+"bytes": 8687,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_dead_continue.h",
+"bytes": 3259,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_two_functions.cpp",
+"bytes": 2603,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/equivalence_relation.h",
+"bytes": 9808,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_loop_control.h",
+"bytes": 3440,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_loop_control.cpp",
+"bytes": 9311,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pseudo_random_generator.cpp",
+"bytes": 1694,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_pointer.h",
+"bytes": 2046,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/data_descriptor.h",
+"bytes": 1568,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_record_synonymous_constants.h",
+"bytes": 3045,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_record_synonymous_constants.cpp",
+"bytes": 4911,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_array.cpp",
+"bytes": 3841,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_dead_block.h",
+"bytes": 2718,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_merge_blocks.h",
+"bytes": 2111,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_toggle_access_chain_instruction.h",
+"bytes": 1999,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_propagate_instruction_up.cpp",
+"bytes": 14817,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_equation_instruction.h",
+"bytes": 3052,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_opselect_with_conditional_branch.cpp",
+"bytes": 8058,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_int.cpp",
+"bytes": 3738,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/available_instructions.h",
+"bytes": 4371,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_branch_from_dead_block_with_exit.h",
+"bytes": 3793,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_expand_vector_reduction.h",
+"bytes": 5581,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_permute_function_parameters.cpp",
+"bytes": 6048,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_toggle_access_chain_instruction.cpp",
+"bytes": 2907,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_dead_continue.cpp",
+"bytes": 5821,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_params_with_struct.h",
+"bytes": 4029,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_struct.h",
+"bytes": 2389,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_function.cpp",
+"bytes": 39139,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_selection_control.h",
+"bytes": 2118,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_load_store_with_copy_memory.cpp",
+"bytes": 6866,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_add_sub_mul_with_carrying_extended.cpp",
+"bytes": 8708,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pseudo_random_generator.h",
+"bytes": 1344,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_vector_shuffle.h",
+"bytes": 4210,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_opphi_id_from_dead_predecessor.h",
+"bytes": 2405,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_outline_function.cpp",
+"bytes": 43690,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_dead_break.cpp",
+"bytes": 8140,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_function_control.h",
+"bytes": 2359,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/uniform_buffer_element_descriptor.cpp",
+"bytes": 4249,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_global_variable.cpp",
+"bytes": 4300,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_boolean.h",
+"bytes": 2126,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_null.cpp",
+"bytes": 2790,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_opphi_synonym.h",
+"bytes": 3360,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_commutable_operands.cpp",
+"bytes": 2557,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_copy_memory_with_load_store.cpp",
+"bytes": 5272,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_boolean.cpp",
+"bytes": 2881,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/random_generator.cpp",
+"bytes": 815,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_function_call.cpp",
+"bytes": 7295,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_image_sample_unused_components.h",
+"bytes": 2314,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_outline_function.h",
+"bytes": 11598,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_add_sub_mul_with_carrying_extended.h",
+"bytes": 2862,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_loop_to_create_int_constant_synonym.h",
+"bytes": 3133,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/comparator_deep_blocks_first.h",
+"bytes": 1943,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_equation_instruction.cpp",
+"bytes": 10699,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_spec_constant_op.h",
+"bytes": 2265,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_bit_instruction_synonym.cpp",
+"bytes": 12452,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_loop_preheader.cpp",
+"bytes": 9215,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/overflow_id_source.cpp",
+"bytes": 772,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/counter_overflow_id_source.cpp",
+"bytes": 1192,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/id_use_descriptor.cpp",
+"bytes": 2116,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_float.h",
+"bytes": 1907,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_propagate_instruction_down.h",
+"bytes": 8055,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_copy_memory.h",
+"bytes": 3190,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_load.cpp",
+"bytes": 9310,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_constant_with_uniform.cpp",
+"bytes": 13173,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_function.cpp",
+"bytes": 3349,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_move_instruction_down.h",
+"bytes": 4783,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation.h",
+"bytes": 5082,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_mutate_pointer.cpp",
+"bytes": 7113,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_opphi_id_from_dead_predecessor.cpp",
+"bytes": 4235,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_local_variable.h",
+"bytes": 2509,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_boolean.cpp",
+"bytes": 2511,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_push_id_through_variable.cpp",
+"bytes": 7941,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_composite_extract.h",
+"bytes": 3126,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/instruction_message.cpp",
+"bytes": 3051,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_function_call.h",
+"bytes": 2742,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_permute_phi_operands.h",
+"bytes": 2206,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/uniform_buffer_element_descriptor.h",
+"bytes": 2131,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_memory_operands_mask.cpp",
+"bytes": 9545,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_global_variable.h",
+"bytes": 2788,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_linear_algebra_instruction.cpp",
+"bytes": 48866,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_synonym.cpp",
+"bytes": 12962,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_null.h",
+"bytes": 2007,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_conditional_branch_operands.cpp",
+"bytes": 4648,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_flatten_conditional_branch.h",
+"bytes": 7780,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/shrinker.h",
+"bytes": 4790,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_store.cpp",
+"bytes": 9907,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_spec_constant_op.cpp",
+"bytes": 3194,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/counter_overflow_id_source.h",
+"bytes": 1670,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_composite_construct.h",
+"bytes": 4243,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_composite.h",
+"bytes": 2456,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/instruction_message.h",
+"bytes": 1791,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_compute_data_synonym_fact_closure.cpp",
+"bytes": 1970,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_memory_operands_mask.h",
+"bytes": 3494,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_invert_comparison_operator.cpp",
+"bytes": 6469,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_make_vector_operation_dynamic.h",
+"bytes": 2622,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_permute_phi_operands.cpp",
+"bytes": 3470,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_irrelevant_id.h",
+"bytes": 2760,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_propagate_instruction_down.cpp",
+"bytes": 21477,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_move_instruction_down.cpp",
+"bytes": 25885,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_constant_with_uniform.h",
+"bytes": 4362,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_global_undef.cpp",
+"bytes": 2667,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_global_undef.h",
+"bytes": 1958,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_wrap_vector_synonym.cpp",
+"bytes": 7339,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_no_contraction_decoration.cpp",
+"bytes": 3822,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_merge_function_returns.cpp",
+"bytes": 35134,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/call_graph.h",
+"bytes": 4612,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_struct.cpp",
+"bytes": 4022,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_matrix.h",
+"bytes": 2055,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_move_block_down.cpp",
+"bytes": 4447,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_composite_insert.h",
+"bytes": 3284,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_adjust_branch_weights.h",
+"bytes": 2169,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fuzzer.h",
+"bytes": 8437,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_push_id_through_variable.h",
+"bytes": 2891,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_split_block.cpp",
+"bytes": 6530,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/overflow_id_source.h",
+"bytes": 3349,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/added_function_reducer.cpp",
+"bytes": 14107,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_load_store_with_copy_memory.h",
+"bytes": 3232,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_copy_object_with_store_load.cpp",
+"bytes": 7494,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_duplicate_region_with_selection.h",
+"bytes": 4076,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_merge_blocks.cpp",
+"bytes": 3222,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/instruction_descriptor.h",
+"bytes": 2116,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_composite_extract.cpp",
+"bytes": 5625,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_context.h",
+"bytes": 2562,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_bit_instruction_synonym.h",
+"bytes": 11266,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_opphi_synonym.cpp",
+"bytes": 7242,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_conditional_branch_operands.h",
+"bytes": 2296,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_float.cpp",
+"bytes": 3270,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_boolean_constant_with_constant_binary.cpp",
+"bytes": 12200,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_vector.cpp",
+"bytes": 3316,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_early_terminator_wrapper.h",
+"bytes": 2411,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_load.h",
+"bytes": 2957,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_loop_to_create_int_constant_synonym.cpp",
+"bytes": 19594,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_wrap_region_in_selection.h",
+"bytes": 3907,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_set_function_control.cpp",
+"bytes": 4123,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_adjust_branch_weights.cpp",
+"bytes": 3701,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_access_chain.cpp",
+"bytes": 17412,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_image_sample_unused_components.cpp",
+"bytes": 4325,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_params_with_struct.cpp",
+"bytes": 12225,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_duplicate_region_with_selection.cpp",
+"bytes": 30052,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/replayer.h",
+"bytes": 3737,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_type_int.h",
+"bytes": 1959,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_wrap_early_terminator_in_function.cpp",
+"bytes": 6783,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_id_with_synonym.cpp",
+"bytes": 4411,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/force_render_red.h",
+"bytes": 1725,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/available_instructions.cpp",
+"bytes": 8226,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation.cpp",
+"bytes": 23427,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_branch_from_dead_block_with_exit.cpp",
+"bytes": 6918,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_constant_scalar.cpp",
+"bytes": 3555,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_compute_data_synonym_fact_closure.h",
+"bytes": 2025,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_replace_id_with_synonym.h",
+"bytes": 2388,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_function_variables.h",
+"bytes": 2124,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/force_render_red.cpp",
+"bytes": 16413,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/shrinker.cpp",
+"bytes": 13885,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_access_chain.h",
+"bytes": 4796,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_propagate_instruction_up.h",
+"bytes": 3785,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_swap_two_functions.h",
+"bytes": 2053,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_add_local_variable.cpp",
+"bytes": 3746,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_move_block_down.h",
+"bytes": 2086,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/transformation_merge_function_returns.h",
+"bytes": 5715,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/fact_manager.cpp",
+"bytes": 9824,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/data_synonym_and_id_equation_facts.cpp",
+"bytes": 38263,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/dead_block_facts.h",
+"bytes": 1785,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/constant_uniform_facts.cpp",
+"bytes": 8309,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/irrelevant_value_facts.cpp",
+"bytes": 4536,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/constant_uniform_facts.h",
+"bytes": 3385,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/dead_block_facts.cpp",
+"bytes": 1360,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/irrelevant_value_facts.h",
+"bytes": 3359,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/livesafe_function_facts.h",
+"bytes": 1738,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/fact_manager.h",
+"bytes": 9790,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/livesafe_function_facts.cpp",
+"bytes": 1431,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/fact_manager/data_synonym_and_id_equation_facts.h",
+"bytes": 8332,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager.h",
+"bytes": 2831,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_recommender_standard.cpp",
+"bytes": 17255,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager_simple.h",
+"bytes": 1398,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_recommender.h",
+"bytes": 1397,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_instances.h",
+"bytes": 9551,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager_looped_with_recommendations.cpp",
+"bytes": 3017,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_recommender_standard.h",
+"bytes": 1770,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager.cpp",
+"bytes": 2140,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager_simple.cpp",
+"bytes": 1233,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_recommender.cpp",
+"bytes": 809,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager_random_with_recommendations.cpp",
+"bytes": 2537,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager_random_with_recommendations.h",
+"bytes": 2668,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/pass_management/repeated_pass_manager_looped_with_recommendations.h",
+"bytes": 2740,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/protobufs/spirvfuzz_protobufs.h",
+"bytes": 2411,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/spirv-tools/src/source/fuzz/protobufs/spvtoolsfuzz.proto",
+"bytes": 83039,
+"reason": "SPIRV-Tools fuzz tooling \u2014 not runtime"
+},
+{
+"path": "third_party/webrtc/call/fake_network_pipe.h",
+"bytes": 8925,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/call/call_perf_tests.cc",
+"bytes": 44818,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/call/rampup_tests.h",
+"bytes": 5899,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/call/fake_network_pipe.cc",
+"bytes": 13280,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/call/rampup_tests.cc",
+"bytes": 27058,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/call/bitrate_estimator_tests.cc",
+"bytes": 12210,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/pranswer_switch_integrationtest.cc",
+"bytes": 13577,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_svc_integrationtest.cc",
+"bytes": 11010,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_field_trial_tests.cc",
+"bytes": 7372,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/rtc_stats_integrationtest.cc",
+"bytes": 73047,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_integrationtest.cc",
+"bytes": 240191,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_callsetup_perf_tests.cc",
+"bytes": 9224,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/dtls_srtp_transport_integrationtest.cc",
+"bytes": 9667,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_stability_integrationtest.cc",
+"bytes": 53009,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/data_channel_integrationtest.cc",
+"bytes": 86525,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_adaptation_integrationtest.cc",
+"bytes": 7306,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/congestion_control_integrationtest.cc",
+"bytes": 19191,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_encodings_integrationtest.cc",
+"bytes": 161799,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_rampup_tests.cc",
+"bytes": 19104,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/video_send_stream_tests.cc",
+"bytes": 160242,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/cpu_scaling_tests.cc",
+"bytes": 5239,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/pc_full_stack_tests.cc",
+"bytes": 73044,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/quality_scaling_tests.cc",
+"bytes": 22650,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/picture_id_tests.cc",
+"bytes": 17609,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/full_stack_tests.cc",
+"bytes": 80863,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/frame_encryption_tests.cc",
+"bytes": 4077,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/corruption_detection_tests.cc",
+"bytes": 4511,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/multi_stream_tests.cc",
+"bytes": 3045,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/call_operation_tests.cc",
+"bytes": 6395,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/network_state_tests.cc",
+"bytes": 15851,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/bandwidth_tests.cc",
+"bytes": 14595,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/config_tests.cc",
+"bytes": 4913,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/multi_codec_receive_tests.cc",
+"bytes": 11856,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/rtp_rtcp_tests.cc",
+"bytes": 21765,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/transport_feedback_tests.cc",
+"bytes": 18751,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/stats_tests.cc",
+"bytes": 29340,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/codec_tests.cc",
+"bytes": 14276,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/ssrc_tests.cc",
+"bytes": 12055,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/fec_tests.cc",
+"bytes": 21347,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/histogram_tests.cc",
+"bytes": 14365,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/extended_reports_tests.cc",
+"bytes": 6398,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/resolution_bitrate_limits_tests.cc",
+"bytes": 25783,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/video/end_to_end_tests/retransmission_tests.cc",
+"bytes": 19269,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/audio/audio_send_stream_tests.cc",
+"bytes": 8255,
+"reason": "WebRTC test/fuzz file"
+},
+{
+"path": "third_party/webrtc/api/audio/neural_residual_echo_estimator_creator.cc",
+"bytes": 1793,
+"reason": "Optional neural echo estimator requiring third_party/tflite (not vendored); standard AEC retained"
+},
+{
+"path": "third_party/webrtc/api/audio/neural_residual_echo_estimator_creator.h",
+"bytes": 2049,
+"reason": "Optional neural echo estimator requiring third_party/tflite (not vendored); standard AEC retained"
+},
+{
+"path": "third_party/dawn/src/tint/lang/msl/writer/writer_fuzz.cc",
+"bytes": 9109,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/hlsl/writer/writer_fuzz.cc",
+"bytes": 9714,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/hlsl/writer/raise/promote_initializers_fuzz.cc",
+"bytes": 2036,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/spirv/writer/writer_fuzz.cc",
+"bytes": 17122,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/wgsl/writer/writer_fuzz.cc",
+"bytes": 2056,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/wgsl/writer/raise/value_to_let_fuzz.cc",
+"bytes": 1959,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/wgsl/writer/raise/ptr_to_ref_fuzz.cc",
+"bytes": 1951,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/wgsl/writer/raise/raise_fuzz.cc",
+"bytes": 1937,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/block_decorated_structs_fuzz.cc",
+"bytes": 2159,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/remove_terminator_args_fuzz.cc",
+"bytes": 2153,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/combine_access_instructions_fuzz.cc",
+"bytes": 2009,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/vectorize_scalar_matrix_constructors_fuzz.cc",
+"bytes": 2042,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/substitute_overrides_fuzz.cc",
+"bytes": 2278,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/demote_to_helper_fuzz.cc",
+"bytes": 1965,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/robustness_fuzz.cc",
+"bytes": 2324,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/conversion_polyfill_fuzz.cc",
+"bytes": 2238,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/builtin_polyfill_fuzz.cc",
+"bytes": 2217,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/rename_conflicts_fuzz.cc",
+"bytes": 1968,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/preserve_padding_fuzz.cc",
+"bytes": 2304,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/bgra8unorm_polyfill_fuzz.cc",
+"bytes": 1980,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/value_to_let_fuzz.cc",
+"bytes": 2630,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/zero_init_workgroup_memory_fuzz.cc",
+"bytes": 2166,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/direct_variable_access_fuzz.cc",
+"bytes": 2256,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/binary_polyfill_fuzz.cc",
+"bytes": 2352,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/single_entry_point_fuzz.cc",
+"bytes": 2091,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/dead_code_elimination_fuzz.cc",
+"bytes": 2039,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/binding_remapper_fuzz.cc",
+"bytes": 2217,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/transform/multiplanar_external_texture_fuzz.cc",
+"bytes": 2961,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/core/ir/binary/roundtrip_fuzz.cc",
+"bytes": 3461,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/lang/glsl/writer/writer_fuzz.cc",
+"bytes": 8756,
+"reason": "Dawn/Tint fuzz file"
+},
+{
+"path": "third_party/dawn/src/tint/utils/protos/ir_fuzz/ir_fuzz.proto",
+"bytes": 1735,
+"reason": "Dawn/Tint fuzz file"
+}
+]

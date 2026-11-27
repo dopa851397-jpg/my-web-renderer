@@ -1,0 +1,52 @@
+[
+{
+"path": "./third_party/swiftshader/third_party/subzero/DESIGN.rst",
+"target": "docs/DESIGN.rst",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/libxslt/linux/COPYING",
+"target": "../src/Copyright",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/perfetto/tools/check_imports",
+"target": "shim",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/perfetto/tools/roll_syntaqlite",
+"target": "shim",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/perfetto/tools/check_trace_processor_deps",
+"target": "shim",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/perfetto/tools/check_ratchet",
+"target": "shim",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/perfetto/tools/roll_emscripten",
+"target": "shim",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/perfetto/tools/roll_node",
+"target": "shim",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./third_party/wayland/src/git-blame-ignore-revs",
+"target": ".git-blame-ignore-revs",
+"reason": "Dangling symlink to removed file"
+},
+{
+"path": "./skia/src/ports/fontations/Cargo.toml",
+"target": "../../../bazel/external/fontations/Cargo.toml",
+"reason": "Dangling symlink to removed file"
+}
+]

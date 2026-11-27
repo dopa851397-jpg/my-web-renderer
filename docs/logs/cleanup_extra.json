@@ -1,0 +1,152 @@
+[
+{
+"path": "third_party/spirv-tools/src/utils/roll_deps.sh",
+"bytes": 1943,
+"reason": "gclient/depot_tools dependency-roll script"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_long8mulaw.wav",
+"bytes": 878918,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_short16.pcm",
+"bytes": 643632,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_tiny22.wav",
+"bytes": 245390,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_tiny44.wav",
+"bytes": 482648,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_tiny32.wav",
+"bytes": 352460,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_long16noise.pcm",
+"bytes": 3488000,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_tiny16.wav",
+"bytes": 180590,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_long8.pcm",
+"bytes": 1744000,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_tiny8.wav",
+"bytes": 95120,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_tiny11.wav",
+"bytes": 127200,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_long16.wav",
+"bytes": 3497132,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/audio_long16big_endian.pcm",
+"bytes": 3488000,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_g729_jitter.rtp",
+"bytes": 120570,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/HRTF_pcm16wb_jitter.rtp",
+"bytes": 1524930,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_pcmu_jitter.rtp",
+"bytes": 683090,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/HRTF_pcm16wb.rtp",
+"bytes": 1549630,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/README.txt",
+"bytes": 273,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/rtpplay.exe",
+"bytes": 87040,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_pcm16wb.rtp",
+"bytes": 2680630,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_pcm16wb_jitter.rtp",
+"bytes": 2611730,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_pcmu.rtp",
+"bytes": 701110,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_g729.rtp",
+"bytes": 123750,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/toggling_stereo_g729_pt18_pt125.rtp",
+"bytes": 507636,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_pcmu_vad_jitter.rtp",
+"bytes": 607806,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/hrtf_g722_1C_48_jitterT2.rtp",
+"bytes": 305790,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/stereo_pcmu_vad.rtp",
+"bytes": 623194,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/voice_engine/stereo_rtp_files/hrtf_g722_1C_48.rtp",
+"bytes": 309950,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/audio_processing/android/output_data_fixed.pb",
+"bytes": 188,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+},
+{
+"path": "third_party/webrtc/data/audio_processing/android/output_data_float.pb",
+"bytes": 1244,
+"reason": "WebRTC test data (RTP files + prebuilt rtpplay.exe)"
+}
+]

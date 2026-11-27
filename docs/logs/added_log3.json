@@ -1,0 +1,778 @@
+[
+{
+"path": "content/browser/permissions/permission_service_context.h",
+"bytes": 4573
+},
+{
+"path": "content/browser/permissions/permission_subscription_impl.cc",
+"bytes": 1032
+},
+{
+"path": "content/browser/permissions/permission_overrides.cc",
+"bytes": 10207
+},
+{
+"path": "content/browser/permissions/permission_subscription_impl.h",
+"bytes": 2178
+},
+{
+"path": "content/browser/permissions/permission_service_context.cc",
+"bytes": 10262
+},
+{
+"path": "content/browser/permissions/permission_service_impl.cc",
+"bytes": 30254
+},
+{
+"path": "content/browser/permissions/permission_descriptor_util.cc",
+"bytes": 9023
+},
+{
+"path": "content/browser/permissions/embedded_permission_control_checker.cc",
+"bytes": 6103
+},
+{
+"path": "content/browser/permissions/permission_overrides.h",
+"bytes": 4962
+},
+{
+"path": "content/browser/permissions/permission_util.h",
+"bytes": 3310
+},
+{
+"path": "content/browser/permissions/permission_controller_impl.h",
+"bytes": 11263
+},
+{
+"path": "content/browser/permissions/permission_service_impl.h",
+"bytes": 5170
+},
+{
+"path": "content/browser/permissions/permission_util.cc",
+"bytes": 6270
+},
+{
+"path": "content/browser/permissions/embedded_permission_control_checker.h",
+"bytes": 5482
+},
+{
+"path": "content/browser/permissions/permission_controller_impl.cc",
+"bytes": 39039
+},
+{
+"path": "blink/public/common/origin_trials/origin_trials.h",
+"bytes": 3085
+},
+{
+"path": "blink/public/common/origin_trials/origin_trial_public_key.h",
+"bytes": 574
+},
+{
+"path": "blink/public/common/origin_trials/origin_trials_settings_provider.h",
+"bytes": 1793
+},
+{
+"path": "blink/public/common/origin_trials/origin_trial_policy.h",
+"bytes": 1386
+},
+{
+"path": "blink/public/common/origin_trials/trial_token_validator.h",
+"bytes": 8617
+},
+{
+"path": "blink/public/common/origin_trials/origin_trials_token_structure.md",
+"bytes": 12200
+},
+{
+"path": "blink/public/common/origin_trials/trial_token.h",
+"bytes": 6499
+},
+{
+"path": "blink/public/common/origin_trials/trial_token_result.h",
+"bytes": 1705
+},
+{
+"path": "blink/renderer/platform/webrtc/webrtc_video_frame_adapter.h",
+"bytes": 13021
+},
+{
+"path": "blink/renderer/platform/webrtc/convert_to_webrtc_video_frame_buffer.h",
+"bytes": 1397
+},
+{
+"path": "blink/renderer/platform/webrtc/webrtc_video_utils.cc",
+"bytes": 15540
+},
+{
+"path": "blink/renderer/platform/webrtc/webrtc_video_utils.h",
+"bytes": 1517
+},
+{
+"path": "blink/renderer/platform/webrtc/track_observer.h",
+"bytes": 1319
+},
+{
+"path": "blink/renderer/platform/webrtc/webrtc_logging.cc",
+"bytes": 2137
+},
+{
+"path": "blink/renderer/platform/webrtc/track_observer.cc",
+"bytes": 4301
+},
+{
+"path": "blink/renderer/platform/webrtc/webrtc_video_frame_adapter.cc",
+"bytes": 26994
+},
+{
+"path": "blink/renderer/platform/webrtc/peer_connection_remote_audio_source.h",
+"bytes": 4352
+},
+{
+"path": "blink/renderer/platform/webrtc/convert_to_webrtc_video_frame_buffer.cc",
+"bytes": 26920
+},
+{
+"path": "blink/renderer/platform/webrtc/webrtc_source.h",
+"bytes": 3240
+},
+{
+"path": "blink/renderer/platform/webrtc/peer_connection_remote_audio_source.cc",
+"bytes": 7875
+},
+{
+"path": "blink/renderer/platform/webrtc/rtc_logging_mojom_traits.h",
+"bytes": 1422
+},
+{
+"path": "blink/renderer/platform/video_capture/video_capture_impl.cc",
+"bytes": 52689
+},
+{
+"path": "blink/renderer/platform/video_capture/video_capture_impl.h",
+"bytes": 10675
+},
+{
+"path": "blink/renderer/platform/video_capture/video_capturer_source.cc",
+"bytes": 845
+},
+{
+"path": "blink/renderer/platform/video_capture/video_capturer_source.h",
+"bytes": 5451
+},
+{
+"path": "services/media_session/public/cpp/chapter_information.h",
+"bytes": 2234
+},
+{
+"path": "services/media_session/public/cpp/chapter_information.cc",
+"bytes": 1194
+},
+{
+"path": "services/media_session/public/cpp/media_image.cc",
+"bytes": 533
+},
+{
+"path": "services/media_session/public/cpp/media_image_manager.h",
+"bytes": 3163
+},
+{
+"path": "services/media_session/public/cpp/media_image_manager.cc",
+"bytes": 4997
+},
+{
+"path": "services/media_session/public/cpp/media_position.cc",
+"bytes": 3015
+},
+{
+"path": "services/media_session/public/cpp/media_session_mojom_traits.h",
+"bytes": 4749
+},
+{
+"path": "services/media_session/public/cpp/util.cc",
+"bytes": 2724
+},
+{
+"path": "services/media_session/public/cpp/media_session_mojom_traits.cc",
+"bytes": 4913
+},
+{
+"path": "services/media_session/public/cpp/media_metadata.cc",
+"bytes": 700
+},
+{
+"path": "services/media_session/public/cpp/media_image.h",
+"bytes": 1987
+},
+{
+"path": "services/media_session/public/cpp/media_metadata_android.cc",
+"bytes": 1278
+},
+{
+"path": "services/media_session/public/cpp/features.h",
+"bytes": 730
+},
+{
+"path": "services/media_session/public/cpp/media_image_android.cc",
+"bytes": 2183
+},
+{
+"path": "services/media_session/public/cpp/util.h",
+"bytes": 754
+},
+{
+"path": "services/media_session/public/cpp/media_session_service.h",
+"bytes": 1214
+},
+{
+"path": "services/media_session/public/cpp/media_metadata.h",
+"bytes": 1773
+},
+{
+"path": "services/media_session/public/cpp/media_position.h",
+"bytes": 3605
+},
+{
+"path": "services/media_session/public/cpp/media_position_android.cc",
+"bytes": 1212
+},
+{
+"path": "services/media_session/public/cpp/features.cc",
+"bytes": 1372
+},
+{
+"path": "services/media_session/public/cpp/android/junit/src/org/chromium/services/media_session/MediaMetadataUnitTest.java",
+"bytes": 3486
+},
+{
+"path": "services/media_session/public/cpp/android/junit/src/org/chromium/services/media_session/MediaPositionUnitTest.java",
+"bytes": 5588
+},
+{
+"path": "services/media_session/public/cpp/android/java/src/org/chromium/services/media_session/MediaImage.java",
+"bytes": 2982
+},
+{
+"path": "services/media_session/public/cpp/android/java/src/org/chromium/services/media_session/MediaPosition.java",
+"bytes": 3895
+},
+{
+"path": "services/media_session/public/cpp/android/java/src/org/chromium/services/media_session/MediaMetadata.java",
+"bytes": 3812
+},
+{
+"path": "media/cdm/cdm_host_files.cc",
+"bytes": 4386
+},
+{
+"path": "media/cdm/cdm_allocator.cc",
+"bytes": 306
+},
+{
+"path": "media/cdm/cdm_host_file.cc",
+"bytes": 2032
+},
+{
+"path": "media/cdm/default_cdm_factory.h",
+"bytes": 1044
+},
+{
+"path": "media/cdm/cenc_decryptor.cc",
+"bytes": 4720
+},
+{
+"path": "media/cdm/cdm_module.cc",
+"bytes": 6390
+},
+{
+"path": "media/cdm/cdm_adapter.h",
+"bytes": 12975
+},
+{
+"path": "media/cdm/cenc_decryptor.h",
+"bytes": 1815
+},
+{
+"path": "media/cdm/cdm_type_conversion.h",
+"bytes": 4753
+},
+{
+"path": "media/cdm/cdm_helpers.h",
+"bytes": 4256
+},
+{
+"path": "media/cdm/cbcs_decryptor.cc",
+"bytes": 7125
+},
+{
+"path": "media/cdm/supported_audio_codecs.h",
+"bytes": 869
+},
+{
+"path": "media/cdm/simple_cdm_allocator.cc",
+"bytes": 2911
+},
+{
+"path": "media/cdm/json_web_key.cc",
+"bytes": 14176
+},
+{
+"path": "media/cdm/cdm_paths.cc",
+"bytes": 1233
+},
+{
+"path": "media/cdm/supported_cdm_versions.cc",
+"bytes": 1301
+},
+{
+"path": "media/cdm/cdm_adapter_factory.h",
+"bytes": 1455
+},
+{
+"path": "media/cdm/cdm_context_ref_impl.cc",
+"bytes": 666
+},
+{
+"path": "media/cdm/cdm_host_files.h",
+"bytes": 2484
+},
+{
+"path": "media/cdm/cdm_module.h",
+"bytes": 2410
+},
+{
+"path": "media/cdm/aes_decryptor.h",
+"bytes": 7899
+},
+{
+"path": "media/cdm/supported_cdm_versions.h",
+"bytes": 6185
+},
+{
+"path": "media/cdm/aes_cbc_crypto.cc",
+"bytes": 3553
+},
+{
+"path": "media/cdm/simple_cdm_buffer.cc",
+"bytes": 1101
+},
+{
+"path": "media/cdm/output_protection.h",
+"bytes": 2669
+},
+{
+"path": "media/cdm/cdm_paths.h",
+"bytes": 1566
+},
+{
+"path": "media/cdm/cdm_adapter.cc",
+"bytes": 48361
+},
+{
+"path": "media/cdm/simple_cdm_allocator.h",
+"bytes": 873
+},
+{
+"path": "media/cdm/cdm_auxiliary_helper.h",
+"bytes": 5154
+},
+{
+"path": "media/cdm/cdm_helpers.cc",
+"bytes": 3943
+},
+{
+"path": "media/cdm/cdm_type_conversion.cc",
+"bytes": 22492
+},
+{
+"path": "media/cdm/media_foundation_cdm_data.cc",
+"bytes": 571
+},
+{
+"path": "media/cdm/cdm_allocator.h",
+"bytes": 1145
+},
+{
+"path": "media/cdm/cdm_type.h",
+"bytes": 733
+},
+{
+"path": "media/cdm/aes_decryptor.cc",
+"bytes": 23191
+},
+{
+"path": "media/cdm/cenc_utils.h",
+"bytes": 1838
+},
+{
+"path": "media/cdm/load_cdm_uma_helper.h",
+"bytes": 1275
+},
+{
+"path": "media/cdm/aes_cbc_crypto.h",
+"bytes": 1736
+},
+{
+"path": "media/cdm/cdm_document_service.h",
+"bytes": 3889
+},
+{
+"path": "media/cdm/cbcs_decryptor.h",
+"bytes": 2170
+},
+{
+"path": "media/cdm/cdm_adapter_factory.cc",
+"bytes": 2051
+},
+{
+"path": "media/cdm/cdm_wrapper.h",
+"bytes": 14028
+},
+{
+"path": "media/cdm/cdm_auxiliary_helper.cc",
+"bytes": 2347
+},
+{
+"path": "media/cdm/load_cdm_uma_helper.cc",
+"bytes": 1091
+},
+{
+"path": "media/cdm/default_cdm_factory.cc",
+"bytes": 2043
+},
+{
+"path": "media/cdm/media_foundation_cdm_data.h",
+"bytes": 916
+},
+{
+"path": "media/cdm/json_web_key.h",
+"bytes": 4954
+},
+{
+"path": "media/cdm/supported_audio_codecs.cc",
+"bytes": 823
+},
+{
+"path": "media/cdm/cenc_utils.cc",
+"bytes": 4800
+},
+{
+"path": "media/cdm/clear_key_cdm_common.h",
+"bytes": 5006
+},
+{
+"path": "media/cdm/cdm_context_ref_impl.h",
+"bytes": 980
+},
+{
+"path": "media/cdm/cdm_host_file.h",
+"bytes": 1967
+},
+{
+"path": "media/cdm/simple_cdm_buffer.h",
+"bytes": 1138
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_stream_decryptor.cc",
+"bytes": 9612
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_cdm_factory.cc",
+"bytes": 2882
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_cdm.cc",
+"bytes": 21000
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_cdm_context.h",
+"bytes": 755
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_cdm_factory.h",
+"bytes": 2009
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_cdm_provider.h",
+"bytes": 803
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_decryptor.h",
+"bytes": 2108
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_cdm.h",
+"bytes": 4660
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_decryptor.cc",
+"bytes": 2159
+},
+{
+"path": "media/cdm/fuchsia/fuchsia_stream_decryptor.h",
+"bytes": 4607
+},
+{
+"path": "media/cdm/win/virtual_core_window_impl.cc",
+"bytes": 9518
+},
+{
+"path": "media/cdm/win/pmp_host_app_impl.h",
+"bytes": 1791
+},
+{
+"path": "media/cdm/win/virtual_core_window_impl.h",
+"bytes": 8843
+},
+{
+"path": "media/cdm/win/pmp_host_app_impl.cc",
+"bytes": 4318
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_factory.cc",
+"bytes": 9847
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_module.h",
+"bytes": 2907
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_factory.h",
+"bytes": 4512
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_module.cc",
+"bytes": 5269
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_session.h",
+"bytes": 3912
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_session.cc",
+"bytes": 11170
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_util.cc",
+"bytes": 11091
+},
+{
+"path": "media/cdm/win/media_foundation_cdm_util.h",
+"bytes": 1289
+},
+{
+"path": "media/cdm/win/media_foundation_cdm.h",
+"bytes": 7053
+},
+{
+"path": "media/cdm/win/media_foundation_cdm.cc",
+"bytes": 28752
+},
+{
+"path": "media/cdm/library_cdm/cdm_host_proxy.h",
+"bytes": 3579
+},
+{
+"path": "media/cdm/library_cdm/cdm_host_proxy_impl.h",
+"bytes": 8732
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/ffmpeg_cdm_audio_decoder.h",
+"bytes": 3008
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/README.md",
+"bytes": 574
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/clear_key_persistent_session_cdm.h",
+"bytes": 5983
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/cdm_file_adapter.cc",
+"bytes": 2226
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/clear_key_persistent_session_cdm.cc",
+"bytes": 13523
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/clear_key_cdm.h",
+"bytes": 8037
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/ffmpeg_cdm_audio_decoder.cc",
+"bytes": 12031
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/cdm_video_decoder.cc",
+"bytes": 12241
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/cdm_file_adapter.h",
+"bytes": 2383
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/cdm_video_decoder.h",
+"bytes": 1306
+},
+{
+"path": "media/cdm/library_cdm/clear_key_cdm/clear_key_cdm.cc",
+"bytes": 38674
+},
+{
+"path": "skia/include/gpu/graphite/dawn/DawnTypes.h",
+"bytes": 295
+},
+{
+"path": "skia/include/gpu/graphite/dawn/DawnGraphiteTypes.h",
+"bytes": 6643
+},
+{
+"path": "skia/include/gpu/graphite/dawn/DawnBackendContext.h",
+"bytes": 2908
+},
+{
+"path": "skia/include/gpu/graphite/dawn/DawnUtils.h",
+"bytes": 297
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnGraphicsPipeline.h",
+"bytes": 4324
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnSampler.h",
+"bytes": 975
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnTextureInfo.cpp",
+"bytes": 2595
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnQueueManager.cpp",
+"bytes": 5428
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnCaps.h",
+"bytes": 5024
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnSharedContext.h",
+"bytes": 4280
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnBackendTexture.cpp",
+"bytes": 4233
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnResourceProvider.cpp",
+"bytes": 32581
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnBuffer.cpp",
+"bytes": 12306
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnGraphiteUtils.cpp",
+"bytes": 33986
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnErrorChecker.cpp",
+"bytes": 5419
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnTexture.cpp",
+"bytes": 10837
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnComputePipeline.h",
+"bytes": 1176
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnAsyncWait.cpp",
+"bytes": 966
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnResourceProvider.h",
+"bytes": 4737
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnCommandBuffer.cpp",
+"bytes": 60998
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnGraphiteUtils.h",
+"bytes": 3948
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnGraphicsPipeline.cpp",
+"bytes": 36766
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnQueueManager.h",
+"bytes": 1098
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnAsyncWait.h",
+"bytes": 2342
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnComputePipeline.cpp",
+"bytes": 8747
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnSampler.cpp",
+"bytes": 6268
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnTexture.h",
+"bytes": 3302
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnErrorChecker.h",
+"bytes": 1524
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnSharedContext.cpp",
+"bytes": 8343
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnBuffer.h",
+"bytes": 2480
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnCaps.cpp",
+"bytes": 40256
+},
+{
+"path": "skia/src/gpu/graphite/dawn/DawnCommandBuffer.h",
+"bytes": 8119
+},
+{
+"path": "third_party/boringssl/src/include/openssl/pki/signature_verify_cache.h",
+"bytes": 1985
+},
+{
+"path": "third_party/boringssl/src/include/openssl/pki/verify_error.h",
+"bytes": 5452
+},
+{
+"path": "third_party/boringssl/src/include/openssl/pki/ocsp.h",
+"bytes": 4694
+},
+{
+"path": "third_party/boringssl/src/include/openssl/pki/verify.h",
+"bytes": 6866
+},
+{
+"path": "third_party/boringssl/src/include/openssl/pki/certificate.h",
+"bytes": 3148
+},
+{
+"path": "base/check_is_test.h",
+"bytes": 2173
+},
+{
+"path": "base/check_is_test.cc",
+"bytes": 696
+}
+]

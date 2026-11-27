@@ -1,0 +1,1506 @@
+[
+{
+"path": "base/metrics/user_metrics.cc",
+"bytes": 2801
+},
+{
+"path": "base/metrics/histogram_functions.h",
+"bytes": 15421
+},
+{
+"path": "base/metrics/histogram_enum_macro.rs",
+"bytes": 2437
+},
+{
+"path": "base/metrics/persistent_histogram_storage.h",
+"bytes": 2815
+},
+{
+"path": "base/metrics/sample_map_iterator.h",
+"bytes": 3164
+},
+{
+"path": "base/metrics/histogram_snapshot_manager.cc",
+"bytes": 3758
+},
+{
+"path": "base/metrics/bucket_ranges.h",
+"bytes": 3820
+},
+{
+"path": "base/metrics/histogram_functions_internal_overloads.h",
+"bytes": 8166
+},
+{
+"path": "base/metrics/histogram_delta_serialization.h",
+"bytes": 2646
+},
+{
+"path": "base/metrics/sample_map.cc",
+"bytes": 3385
+},
+{
+"path": "base/metrics/histogram_base.cc",
+"bytes": 8465
+},
+{
+"path": "base/metrics/field_trial.cc",
+"bytes": 43958
+},
+{
+"path": "base/metrics/histogram_base.h",
+"bytes": 16006
+},
+{
+"path": "base/metrics/user_metrics_action.h",
+"bytes": 1069
+},
+{
+"path": "base/metrics/sparse_histogram.cc",
+"bytes": 10147
+},
+{
+"path": "base/metrics/histogram_shared_memory.h",
+"bytes": 3518
+},
+{
+"path": "base/metrics/field_trial_entry.cc",
+"bytes": 2591
+},
+{
+"path": "base/metrics/field_trial_param_associator.cc",
+"bytes": 3064
+},
+{
+"path": "base/metrics/crc32.cc",
+"bytes": 919
+},
+{
+"path": "base/metrics/histogram.h",
+"bytes": 30975
+},
+{
+"path": "base/metrics/persistent_sample_map.cc",
+"bytes": 9765
+},
+{
+"path": "base/metrics/histogram.cc",
+"bytes": 56812
+},
+{
+"path": "base/metrics/field_trial_params_nocompile.nc",
+"bytes": 1488
+},
+{
+"path": "base/metrics/single_sample_metrics.h",
+"bytes": 4041
+},
+{
+"path": "base/metrics/field_trial_list_including_low_anonymity.cc",
+"bytes": 1077
+},
+{
+"path": "base/metrics/single_sample_metrics.cc",
+"bytes": 2299
+},
+{
+"path": "base/metrics/sample_vector.cc",
+"bytes": 27535
+},
+{
+"path": "base/metrics/histogram_macros_local.h",
+"bytes": 4415
+},
+{
+"path": "base/metrics/persistent_histogram_allocator.cc",
+"bytes": 44215
+},
+{
+"path": "base/metrics/statistics_recorder.h",
+"bytes": 19555
+},
+{
+"path": "base/metrics/crc32.h",
+"bytes": 691
+},
+{
+"path": "base/metrics/histogram_macros_internal.h",
+"bytes": 19958
+},
+{
+"path": "base/metrics/persistent_memory_allocator.h",
+"bytes": 48031
+},
+{
+"path": "base/metrics/record_histogram_checker.h",
+"bytes": 887
+},
+{
+"path": "base/metrics/runtime_field_trial_overrides.cc",
+"bytes": 6254
+},
+{
+"path": "base/metrics/field_trial_params.h",
+"bytes": 16777
+},
+{
+"path": "base/metrics/sparse_histogram.h",
+"bytes": 3956
+},
+{
+"path": "base/metrics/persistent_histogram_allocator.h",
+"bytes": 26652
+},
+{
+"path": "base/metrics/metrics_hashes.cc",
+"bytes": 1639
+},
+{
+"path": "base/metrics/bucket_ranges.cc",
+"bytes": 1930
+},
+{
+"path": "base/metrics/user_metrics.h",
+"bytes": 3725
+},
+{
+"path": "base/metrics/persistent_histogram_storage.cc",
+"bytes": 5226
+},
+{
+"path": "base/metrics/histogram_rust_shim.cc",
+"bytes": 4011
+},
+{
+"path": "base/metrics/histogram.rs",
+"bytes": 11541
+},
+{
+"path": "base/metrics/METRICS_OWNERS",
+"bytes": 864
+},
+{
+"path": "base/metrics/persistent_sample_map.h",
+"bytes": 5156
+},
+{
+"path": "base/metrics/histogram_snapshot_manager.h",
+"bytes": 2987
+},
+{
+"path": "base/metrics/histogram_delta_serialization.cc",
+"bytes": 2713
+},
+{
+"path": "base/metrics/persistent_memory_allocator.cc",
+"bytes": 56886
+},
+{
+"path": "base/metrics/field_trial.h",
+"bytes": 38564
+},
+{
+"path": "base/metrics/sample_map.h",
+"bytes": 1673
+},
+{
+"path": "base/metrics/dummy_histogram.h",
+"bytes": 2222
+},
+{
+"path": "base/metrics/histogram_samples.h",
+"bytes": 13868
+},
+{
+"path": "base/metrics/field_trial_list_including_low_anonymity.h",
+"bytes": 3801
+},
+{
+"path": "base/metrics/ranges_manager.cc",
+"bytes": 2761
+},
+{
+"path": "base/metrics/histogram_functions.cc",
+"bytes": 15642
+},
+{
+"path": "base/metrics/histogram_macros.h",
+"bytes": 25940
+},
+{
+"path": "base/metrics/ranges_manager.h",
+"bytes": 4054
+},
+{
+"path": "base/metrics/metrics_hashes.h",
+"bytes": 1075
+},
+{
+"path": "base/metrics/dummy_histogram.cc",
+"bytes": 3471
+},
+{
+"path": "base/metrics/histogram_nocompile.nc",
+"bytes": 3291
+},
+{
+"path": "base/metrics/runtime_field_trial_overrides.h",
+"bytes": 8657
+},
+{
+"path": "base/metrics/field_trial_params.cc",
+"bytes": 11098
+},
+{
+"path": "base/metrics/histogram_samples.cc",
+"bytes": 17784
+},
+{
+"path": "base/metrics/statistics_recorder.cc",
+"bytes": 20769
+},
+{
+"path": "base/metrics/field_trial_param_associator.h",
+"bytes": 3328
+},
+{
+"path": "base/metrics/histogram_rust_shim.h",
+"bytes": 2313
+},
+{
+"path": "base/metrics/histogram_shared_memory.cc",
+"bytes": 5660
+},
+{
+"path": "base/metrics/sample_vector.h",
+"bytes": 10566
+},
+{
+"path": "base/metrics/field_trial_entry.h",
+"bytes": 4476
+},
+{
+"path": "services/metrics/public/cpp/ukm_recorder_impl_utils.h",
+"bytes": 1435
+},
+{
+"path": "services/metrics/public/cpp/ukm_source.h",
+"bytes": 5875
+},
+{
+"path": "services/metrics/public/cpp/ukm_recorder.h",
+"bytes": 12084
+},
+{
+"path": "services/metrics/public/cpp/ukm_recorder_impl_utils.cc",
+"bytes": 1921
+},
+{
+"path": "services/metrics/public/cpp/ukm_entry_builder_base.cc",
+"bytes": 1636
+},
+{
+"path": "services/metrics/public/cpp/mojo_ukm_recorder.cc",
+"bytes": 3393
+},
+{
+"path": "services/metrics/public/cpp/delegating_ukm_recorder.cc",
+"bytes": 7121
+},
+{
+"path": "services/metrics/public/cpp/metrics_export.h",
+"bytes": 696
+},
+{
+"path": "services/metrics/public/cpp/ukm_recorder_client_interface_registry.h",
+"bytes": 2265
+},
+{
+"path": "services/metrics/public/cpp/ukm_entry_builder.h",
+"bytes": 1575
+},
+{
+"path": "services/metrics/public/cpp/delegating_ukm_recorder.h",
+"bytes": 3698
+},
+{
+"path": "services/metrics/public/cpp/ukm_entry_builder.cc",
+"bytes": 719
+},
+{
+"path": "services/metrics/public/cpp/mojo_ukm_recorder.h",
+"bytes": 3226
+},
+{
+"path": "services/metrics/public/cpp/ukm_source.cc",
+"bytes": 9114
+},
+{
+"path": "services/metrics/public/cpp/metrics_utils.cc",
+"bytes": 3428
+},
+{
+"path": "services/metrics/public/cpp/ukm_entry_builder_base.h",
+"bytes": 1935
+},
+{
+"path": "services/metrics/public/cpp/metrics_utils.h",
+"bytes": 2750
+},
+{
+"path": "services/metrics/public/cpp/ukm_recorder.cc",
+"bytes": 9740
+},
+{
+"path": "services/metrics/public/cpp/ukm_recorder_client_interface_registry.cc",
+"bytes": 4758
+},
+{
+"path": "services/metrics/public/cpp/ukm_source_id.cc",
+"bytes": 4750
+},
+{
+"path": "services/metrics/public/cpp/ukm_source_id.h",
+"bytes": 7962
+},
+{
+"path": "services/metrics/public/mojom/ukm_interface.mojom",
+"bytes": 2440
+},
+{
+"path": "third_party/boringssl/src/pki/parse_values.h",
+"bytes": 6801
+},
+{
+"path": "third_party/boringssl/src/pki/common_cert_errors.h",
+"bytes": 8515
+},
+{
+"path": "third_party/boringssl/src/pki/verify_name_match.cc",
+"bytes": 15783
+},
+{
+"path": "third_party/boringssl/src/pki/pem.h",
+"bytes": 4602
+},
+{
+"path": "third_party/boringssl/src/pki/string_util.cc",
+"bytes": 4201
+},
+{
+"path": "third_party/boringssl/src/pki/verify_error.cc",
+"bytes": 1099
+},
+{
+"path": "third_party/boringssl/src/pki/revocation_util.cc",
+"bytes": 2213
+},
+{
+"path": "third_party/boringssl/src/pki/parser.cc",
+"bytes": 4144
+},
+{
+"path": "third_party/boringssl/src/pki/ocsp.h",
+"bytes": 10701
+},
+{
+"path": "third_party/boringssl/src/pki/signature_algorithm.cc",
+"bytes": 17621
+},
+{
+"path": "third_party/boringssl/src/pki/trust_store_collection.h",
+"bytes": 1839
+},
+{
+"path": "third_party/boringssl/src/pki/trust_store_collection.cc",
+"bytes": 1972
+},
+{
+"path": "third_party/boringssl/src/pki/cert_error_params.cc",
+"bytes": 4465
+},
+{
+"path": "third_party/boringssl/src/pki/simple_path_builder_delegate.h",
+"bytes": 3427
+},
+{
+"path": "third_party/boringssl/src/pki/parse_name.cc",
+"bytes": 7220
+},
+{
+"path": "third_party/boringssl/src/pki/cert_issuer_source.h",
+"bytes": 2981
+},
+{
+"path": "third_party/boringssl/src/pki/ip_util.h",
+"bytes": 1371
+},
+{
+"path": "third_party/boringssl/src/pki/encode_values.h",
+"bytes": 2143
+},
+{
+"path": "third_party/boringssl/src/pki/input.cc",
+"bytes": 1412
+},
+{
+"path": "third_party/boringssl/src/pki/certificate_policies.h",
+"bytes": 4704
+},
+{
+"path": "third_party/boringssl/src/pki/README.md",
+"bytes": 626
+},
+{
+"path": "third_party/boringssl/src/pki/verify_certificate_chain.h",
+"bytes": 12973
+},
+{
+"path": "third_party/boringssl/src/pki/general_names.cc",
+"bytes": 8838
+},
+{
+"path": "third_party/boringssl/src/pki/trust_store_in_memory.cc",
+"bytes": 4596
+},
+{
+"path": "third_party/boringssl/src/pki/extended_key_usage.cc",
+"bytes": 1764
+},
+{
+"path": "third_party/boringssl/src/pki/common_cert_errors.cc",
+"bytes": 5931
+},
+{
+"path": "third_party/boringssl/src/pki/general_names.h",
+"bytes": 5056
+},
+{
+"path": "third_party/boringssl/src/pki/input.h",
+"bytes": 7053
+},
+{
+"path": "third_party/boringssl/src/pki/verify_signed_data.cc",
+"bytes": 11725
+},
+{
+"path": "third_party/boringssl/src/pki/ocsp.cc",
+"bytes": 39712
+},
+{
+"path": "third_party/boringssl/src/pki/parse_values.cc",
+"bytes": 13183
+},
+{
+"path": "third_party/boringssl/src/pki/name_constraints.cc",
+"bytes": 27710
+},
+{
+"path": "third_party/boringssl/src/pki/path_builder.h",
+"bytes": 11013
+},
+{
+"path": "third_party/boringssl/src/pki/certificate_policies.cc",
+"bytes": 13380
+},
+{
+"path": "third_party/boringssl/src/pki/name_constraints.h",
+"bytes": 5189
+},
+{
+"path": "third_party/boringssl/src/pki/simple_path_builder_delegate.cc",
+"bytes": 4622
+},
+{
+"path": "third_party/boringssl/src/pki/cert_error_id.h",
+"bytes": 1863
+},
+{
+"path": "third_party/boringssl/src/pki/verify_signed_data.h",
+"bytes": 2035
+},
+{
+"path": "third_party/boringssl/src/pki/revocation_util.h",
+"bytes": 1447
+},
+{
+"path": "third_party/boringssl/src/pki/parsed_certificate.h",
+"bytes": 12599
+},
+{
+"path": "third_party/boringssl/src/pki/parse_certificate.h",
+"bytes": 26325
+},
+{
+"path": "third_party/boringssl/src/pki/verify.cc",
+"bytes": 11530
+},
+{
+"path": "third_party/boringssl/src/pki/parse_name.h",
+"bytes": 7135
+},
+{
+"path": "third_party/boringssl/src/pki/parsed_certificate.cc",
+"bytes": 11433
+},
+{
+"path": "third_party/boringssl/src/pki/ip_util.cc",
+"bytes": 1668
+},
+{
+"path": "third_party/boringssl/src/pki/trust_store.cc",
+"bytes": 14822
+},
+{
+"path": "third_party/boringssl/src/pki/verify_certificate_chain.cc",
+"bytes": 96668
+},
+{
+"path": "third_party/boringssl/src/pki/string_util.h",
+"bytes": 3222
+},
+{
+"path": "third_party/boringssl/src/pki/trust_store.h",
+"bytes": 11706
+},
+{
+"path": "third_party/boringssl/src/pki/cert_errors.cc",
+"bytes": 6107
+},
+{
+"path": "third_party/boringssl/src/pki/crl.h",
+"bytes": 10231
+},
+{
+"path": "third_party/boringssl/src/pki/parser.h",
+"bytes": 10137
+},
+{
+"path": "third_party/boringssl/src/pki/cert_issuer_source_static.h",
+"bytes": 2168
+},
+{
+"path": "third_party/boringssl/src/pki/extended_key_usage.h",
+"bytes": 4709
+},
+{
+"path": "third_party/boringssl/src/pki/parse_certificate.cc",
+"bytes": 32925
+},
+{
+"path": "third_party/boringssl/src/pki/verify_name_match.h",
+"bytes": 2941
+},
+{
+"path": "third_party/boringssl/src/pki/signature_algorithm.h",
+"bytes": 3257
+},
+{
+"path": "third_party/boringssl/src/pki/merkle_tree.cc",
+"bytes": 14353
+},
+{
+"path": "third_party/boringssl/src/pki/cert_issuer_source_static.cc",
+"bytes": 1814
+},
+{
+"path": "third_party/boringssl/src/pki/pem.cc",
+"bytes": 6576
+},
+{
+"path": "third_party/boringssl/src/pki/trust_store_in_memory.h",
+"bytes": 4535
+},
+{
+"path": "third_party/boringssl/src/pki/certificate.cc",
+"bytes": 3645
+},
+{
+"path": "third_party/boringssl/src/pki/path_builder.cc",
+"bytes": 41937
+},
+{
+"path": "third_party/boringssl/src/pki/crl.cc",
+"bytes": 27518
+},
+{
+"path": "third_party/boringssl/src/pki/encode_values.cc",
+"bytes": 3337
+},
+{
+"path": "third_party/boringssl/src/pki/cert_error_id.cc",
+"bytes": 836
+},
+{
+"path": "third_party/boringssl/src/pki/cert_error_params.h",
+"bytes": 2426
+},
+{
+"path": "third_party/boringssl/src/pki/merkle_tree.h",
+"bytes": 8907
+},
+{
+"path": "third_party/boringssl/src/pki/cert_errors.h",
+"bytes": 6237
+},
+{
+"path": "net/storage_access_api/status.h",
+"bytes": 665
+},
+{
+"path": "net/proxy_resolution/pac_file_fetcher_impl.h",
+"bytes": 5553
+},
+{
+"path": "net/proxy_resolution/configured_proxy_resolution_service.h",
+"bytes": 26042
+},
+{
+"path": "net/proxy_resolution/proxy_chain_util_apple.cc",
+"bytes": 2655
+},
+{
+"path": "net/proxy_resolution/pac_file_fetcher.cc",
+"bytes": 323
+},
+{
+"path": "net/proxy_resolution/proxy_resolution_url_sanitizer.h",
+"bytes": 1409
+},
+{
+"path": "net/proxy_resolution/system_proxy_resolution_request.h",
+"bytes": 3469
+},
+{
+"path": "net/proxy_resolution/proxy_config_service.h",
+"bytes": 3411
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_ios.cc",
+"bytes": 4005
+},
+{
+"path": "net/proxy_resolution/configured_proxy_resolution_service.cc",
+"bytes": 68429
+},
+{
+"path": "net/proxy_resolution/pac_file_data.cc",
+"bytes": 1822
+},
+{
+"path": "net/proxy_resolution/proxy_resolution_service.h",
+"bytes": 5786
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_fixed.h",
+"bytes": 1126
+},
+{
+"path": "net/proxy_resolution/proxy_resolve_dns_operation.h",
+"bytes": 570
+},
+{
+"path": "net/proxy_resolution/system_proxy_resolution_service.h",
+"bytes": 3908
+},
+{
+"path": "net/proxy_resolution/multi_threaded_proxy_resolver.cc",
+"bytes": 20085
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_mac.cc",
+"bytes": 10046
+},
+{
+"path": "net/proxy_resolution/dhcp_pac_file_fetcher.h",
+"bytes": 4566
+},
+{
+"path": "net/proxy_resolution/proxy_host_matching_rules.cc",
+"bytes": 7869
+},
+{
+"path": "net/proxy_resolution/polling_proxy_config_service.cc",
+"bytes": 6417
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_ios.h",
+"bytes": 854
+},
+{
+"path": "net/proxy_resolution/proxy_chain_util_apple.h",
+"bytes": 1050
+},
+{
+"path": "net/proxy_resolution/proxy_config_with_annotation.h",
+"bytes": 1275
+},
+{
+"path": "net/proxy_resolution/pac_file_decider.h",
+"bytes": 7307
+},
+{
+"path": "net/proxy_resolution/proxy_resolver_factory.h",
+"bytes": 2258
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_mac.h",
+"bytes": 3395
+},
+{
+"path": "net/proxy_resolution/proxy_resolver_error_observer.h",
+"bytes": 1388
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_android.h",
+"bytes": 5175
+},
+{
+"path": "net/proxy_resolution/proxy_retry_info.h",
+"bytes": 958
+},
+{
+"path": "net/proxy_resolution/configured_proxy_resolution_request.h",
+"bytes": 6502
+},
+{
+"path": "net/proxy_resolution/pac_file_data.h",
+"bytes": 2115
+},
+{
+"path": "net/proxy_resolution/proxy_resolver_factory.cc",
+"bytes": 496
+},
+{
+"path": "net/proxy_resolution/system_proxy_resolution_request.cc",
+"bytes": 2240
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_android.cc",
+"bytes": 20403
+},
+{
+"path": "net/proxy_resolution/proxy_config_with_annotation.cc",
+"bytes": 1707
+},
+{
+"path": "net/proxy_resolution/proxy_resolver_apple.cc",
+"bytes": 26975
+},
+{
+"path": "net/proxy_resolution/proxy_resolution_service.cc",
+"bytes": 2177
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_fixed.cc",
+"bytes": 586
+},
+{
+"path": "net/proxy_resolution/proxy_resolution_request.h",
+"bytes": 841
+},
+{
+"path": "net/proxy_resolution/proxy_config_service.cc",
+"bytes": 5408
+},
+{
+"path": "net/proxy_resolution/system_proxy_resolution_service_unittest-inl.h",
+"bytes": 24896
+},
+{
+"path": "net/proxy_resolution/pac_file_decider.cc",
+"bytes": 15908
+},
+{
+"path": "net/proxy_resolution/polling_proxy_config_service.h",
+"bytes": 2416
+},
+{
+"path": "net/proxy_resolution/proxy_info.h",
+"bytes": 6624
+},
+{
+"path": "net/proxy_resolution/pac_file_fetcher_impl.cc",
+"bytes": 14279
+},
+{
+"path": "net/proxy_resolution/resolve_host_request.cc",
+"bytes": 636
+},
+{
+"path": "net/proxy_resolution/network_delegate_error_observer.cc",
+"bytes": 2910
+},
+{
+"path": "net/proxy_resolution/proxy_resolver_apple.h",
+"bytes": 1286
+},
+{
+"path": "net/proxy_resolution/proxy_config.h",
+"bytes": 14676
+},
+{
+"path": "net/proxy_resolution/proxy_resolver.h",
+"bytes": 2167
+},
+{
+"path": "net/proxy_resolution/proxy_host_matching_rules.h",
+"bytes": 4744
+},
+{
+"path": "net/proxy_resolution/pac_file_fetcher.h",
+"bytes": 3362
+},
+{
+"path": "net/proxy_resolution/configured_proxy_resolution_request.cc",
+"bytes": 12009
+},
+{
+"path": "net/proxy_resolution/proxy_resolution_url_sanitizer.cc",
+"bytes": 654
+},
+{
+"path": "net/proxy_resolution/proxy_config.cc",
+"bytes": 16369
+},
+{
+"path": "net/proxy_resolution/proxy_info.cc",
+"bytes": 3220
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_linux.h",
+"bytes": 13866
+},
+{
+"path": "net/proxy_resolution/multi_threaded_proxy_resolver.h",
+"bytes": 3248
+},
+{
+"path": "net/proxy_resolution/network_delegate_error_observer.h",
+"bytes": 1616
+},
+{
+"path": "net/proxy_resolution/system_proxy_resolution_service.cc",
+"bytes": 2780
+},
+{
+"path": "net/proxy_resolution/proxy_config_service_linux.cc",
+"bytes": 59212
+},
+{
+"path": "net/proxy_resolution/resolve_host_request.h",
+"bytes": 874
+},
+{
+"path": "net/proxy_resolution/proxy_list.h",
+"bytes": 4890
+},
+{
+"path": "net/proxy_resolution/proxy_list.cc",
+"bytes": 6783
+},
+{
+"path": "net/proxy_resolution/dhcp_pac_file_fetcher.cc",
+"bytes": 1115
+},
+{
+"path": "net/proxy_resolution/linux/linux_system_proxy_resolver.h",
+"bytes": 2365
+},
+{
+"path": "net/proxy_resolution/linux/linux_system_proxy_resolution_request.h",
+"bytes": 3071
+},
+{
+"path": "net/proxy_resolution/linux/linux_proxy_resolution_status.h",
+"bytes": 1433
+},
+{
+"path": "net/proxy_resolution/linux/linux_system_proxy_resolution_service.h",
+"bytes": 3550
+},
+{
+"path": "net/proxy_resolution/linux/linux_system_proxy_resolution_service.cc",
+"bytes": 5502
+},
+{
+"path": "net/proxy_resolution/linux/linux_system_proxy_resolution_request.cc",
+"bytes": 5232
+},
+{
+"path": "net/proxy_resolution/win/proxy_config_service_win.h",
+"bytes": 3402
+},
+{
+"path": "net/proxy_resolution/win/dhcp_pac_file_fetcher_win.h",
+"bytes": 7597
+},
+{
+"path": "net/proxy_resolution/win/dhcpcsvc_init_win.cc",
+"bytes": 882
+},
+{
+"path": "net/proxy_resolution/win/dhcpcsvc_init_win.h",
+"bytes": 687
+},
+{
+"path": "net/proxy_resolution/win/proxy_resolver_winhttp.h",
+"bytes": 1210
+},
+{
+"path": "net/proxy_resolution/win/dhcp_pac_file_adapter_fetcher_win.cc",
+"bytes": 9714
+},
+{
+"path": "net/proxy_resolution/win/windows_system_proxy_resolver.h",
+"bytes": 1609
+},
+{
+"path": "net/proxy_resolution/win/proxy_resolver_winhttp.cc",
+"bytes": 8175
+},
+{
+"path": "net/proxy_resolution/win/windows_system_proxy_resolution_request.h",
+"bytes": 3486
+},
+{
+"path": "net/proxy_resolution/win/dhcp_pac_file_adapter_fetcher_win.h",
+"bytes": 7196
+},
+{
+"path": "net/proxy_resolution/win/windows_system_proxy_resolution_service.h",
+"bytes": 3208
+},
+{
+"path": "net/proxy_resolution/win/windows_system_proxy_resolution_service.cc",
+"bytes": 5678
+},
+{
+"path": "net/proxy_resolution/win/proxy_config_service_win.cc",
+"bytes": 7481
+},
+{
+"path": "net/proxy_resolution/win/winhttp_status.h",
+"bytes": 1744
+},
+{
+"path": "net/proxy_resolution/win/dhcp_pac_file_fetcher_win.cc",
+"bytes": 19904
+},
+{
+"path": "net/proxy_resolution/win/windows_system_proxy_resolution_request.cc",
+"bytes": 5236
+},
+{
+"path": "net/proxy_resolution/mac/mac_system_proxy_resolution_request.h",
+"bytes": 3520
+},
+{
+"path": "net/proxy_resolution/mac/mac_system_proxy_resolution_service.cc",
+"bytes": 5088
+},
+{
+"path": "net/proxy_resolution/mac/mac_system_proxy_resolution_request.cc",
+"bytes": 5849
+},
+{
+"path": "net/proxy_resolution/mac/mac_proxy_resolution_status.h",
+"bytes": 1090
+},
+{
+"path": "net/proxy_resolution/mac/mac_system_proxy_resolution_service.h",
+"bytes": 3486
+},
+{
+"path": "net/proxy_resolution/mac/mac_system_proxy_resolver.h",
+"bytes": 2183
+},
+{
+"path": "cc/metrics/frame_sorter.cc",
+"bytes": 6750
+},
+{
+"path": "cc/metrics/scroll_jank_v4_processor.cc",
+"bytes": 5996
+},
+{
+"path": "cc/metrics/scroll_jank_v4_histogram_emitter.h",
+"bytes": 9544
+},
+{
+"path": "cc/metrics/predictor_jank_tracker.cc",
+"bytes": 9251
+},
+{
+"path": "cc/metrics/frame_sequence_tracker_collection.cc",
+"bytes": 15104
+},
+{
+"path": "cc/metrics/scroll_jank_v4_histogram_emitter.cc",
+"bytes": 12152
+},
+{
+"path": "cc/metrics/scroll_jank_v4_frame.cc",
+"bytes": 2214
+},
+{
+"path": "cc/metrics/events_metrics_manager.cc",
+"bytes": 5317
+},
+{
+"path": "cc/metrics/begin_main_frame_metrics.h",
+"bytes": 3558
+},
+{
+"path": "cc/metrics/frame_sequence_tracker.h",
+"bytes": 4804
+},
+{
+"path": "cc/metrics/scroll_jank_v4_decider.cc",
+"bytes": 23003
+},
+{
+"path": "cc/metrics/scroll_jank_v4_frame_timeline_calculator.cc",
+"bytes": 8811
+},
+{
+"path": "cc/metrics/custom_metrics_recorder.cc",
+"bytes": 627
+},
+{
+"path": "cc/metrics/frame_sequence_tracker.cc",
+"bytes": 7818
+},
+{
+"path": "cc/metrics/shared_metrics_buffer.h",
+"bytes": 1948
+},
+{
+"path": "cc/metrics/scroll_jank_v4_frame_stage_calculator.h",
+"bytes": 7477
+},
+{
+"path": "cc/metrics/scroll_timing_emitter.h",
+"bytes": 5262
+},
+{
+"path": "cc/metrics/stub_compositor_frame_reporting_controller.cc",
+"bytes": 1596
+},
+{
+"path": "cc/metrics/ukm_dropped_frames_data.cc",
+"bytes": 285
+},
+{
+"path": "cc/metrics/scroll_jank_v4_decision_queue.cc",
+"bytes": 4270
+},
+{
+"path": "cc/metrics/average_lag_tracker.h",
+"bytes": 5352
+},
+{
+"path": "cc/metrics/scroll_jank_v4_frame.h",
+"bytes": 11441
+},
+{
+"path": "cc/metrics/scroll_jank_v4_tracing_recorder.cc",
+"bytes": 12858
+},
+{
+"path": "cc/metrics/scroll_sequence_tracker.cc",
+"bytes": 1260
+},
+{
+"path": "cc/metrics/ukm_dropped_frames_data.h",
+"bytes": 691
+},
+{
+"path": "cc/metrics/stub_compositor_frame_reporting_controller.h",
+"bytes": 1601
+},
+{
+"path": "cc/metrics/event_latency_tracing_recorder.cc",
+"bytes": 19764
+},
+{
+"path": "cc/metrics/frame_info.cc",
+"bytes": 11391
+},
+{
+"path": "cc/metrics/event_metrics.h",
+"bytes": 31780
+},
+{
+"path": "cc/metrics/frame_sequence_metrics.h",
+"bytes": 7824
+},
+{
+"path": "cc/metrics/video_playback_roughness_reporter.h",
+"bytes": 6461
+},
+{
+"path": "cc/metrics/scroll_timing_buffer.cc",
+"bytes": 4258
+},
+{
+"path": "cc/metrics/scroll_jank_os_reporter.h",
+"bytes": 819
+},
+{
+"path": "cc/metrics/submit_info.cc",
+"bytes": 1736
+},
+{
+"path": "cc/metrics/submit_info.h",
+"bytes": 1580
+},
+{
+"path": "cc/metrics/scroll_timing_buffer.h",
+"bytes": 3218
+},
+{
+"path": "cc/metrics/custom_metrics_recorder.h",
+"bytes": 874
+},
+{
+"path": "cc/metrics/frame_sequence_metrics.cc",
+"bytes": 31871
+},
+{
+"path": "cc/metrics/compositor_timing_history.h",
+"bytes": 4910
+},
+{
+"path": "cc/metrics/average_lag_tracking_manager.cc",
+"bytes": 5024
+},
+{
+"path": "cc/metrics/latency_data.h",
+"bytes": 1142
+},
+{
+"path": "cc/metrics/scroll_jank_v4_decider.h",
+"bytes": 14282
+},
+{
+"path": "cc/metrics/begin_main_frame_metrics.cc",
+"bytes": 495
+},
+{
+"path": "cc/metrics/scroll_jank_v4_frame_timeline_calculator.h",
+"bytes": 3999
+},
+{
+"path": "cc/metrics/event_metrics.cc",
+"bytes": 37943
+},
+{
+"path": "cc/metrics/event_latency_tracing_recorder.h",
+"bytes": 1660
+},
+{
+"path": "cc/metrics/predictor_jank_tracker.h",
+"bytes": 3126
+},
+{
+"path": "cc/metrics/average_lag_tracking_manager.h",
+"bytes": 2138
+},
+{
+"path": "cc/metrics/frame_sorter.h",
+"bytes": 4363
+},
+{
+"path": "cc/metrics/scroll_jank_v4_decision_queue.h",
+"bytes": 6387
+},
+{
+"path": "cc/metrics/scroll_jank_v4_frame_stage_calculator.cc",
+"bytes": 15488
+},
+{
+"path": "cc/metrics/scroll_jank_v4_processor.h",
+"bytes": 2745
+},
+{
+"path": "cc/metrics/histogram_macros.h",
+"bytes": 988
+},
+{
+"path": "cc/metrics/video_playback_roughness_reporter.cc",
+"bytes": 9432
+},
+{
+"path": "cc/metrics/compositor_frame_reporter.cc",
+"bytes": 91353
+},
+{
+"path": "cc/metrics/scroll_timing_info.h",
+"bytes": 2478
+},
+{
+"path": "cc/metrics/scroll_jank_dropped_frame_tracker.cc",
+"bytes": 7450
+},
+{
+"path": "cc/metrics/compositor_frame_reporting_controller.cc",
+"bytes": 43400
+},
+{
+"path": "cc/metrics/events_metrics_manager.h",
+"bytes": 4667
+},
+{
+"path": "cc/metrics/average_lag_tracker.cc",
+"bytes": 10259
+},
+{
+"path": "cc/metrics/compositor_timing_history.cc",
+"bytes": 13365
+},
+{
+"path": "cc/metrics/frame_info.h",
+"bytes": 4702
+},
+{
+"path": "cc/metrics/latency_data.cc",
+"bytes": 551
+},
+{
+"path": "cc/metrics/scroll_timing_emitter.cc",
+"bytes": 8678
+},
+{
+"path": "cc/metrics/scroll_jank_v4_tracing_recorder.h",
+"bytes": 853
+},
+{
+"path": "cc/metrics/scroll_jank_v4_result.h",
+"bytes": 8007
+},
+{
+"path": "cc/metrics/scroll_sequence_tracker.h",
+"bytes": 1750
+},
+{
+"path": "cc/metrics/compositor_frame_reporting_controller.h",
+"bytes": 10493
+},
+{
+"path": "cc/metrics/frame_sequence_tracker_collection.h",
+"bytes": 7196
+},
+{
+"path": "cc/metrics/scroll_jank_dropped_frame_tracker.h",
+"bytes": 2701
+},
+{
+"path": "cc/metrics/compositor_frame_reporter.h",
+"bytes": 25720
+},
+{
+"path": "components/crash/core/common/crash_keys.cc",
+"bytes": 7710
+},
+{
+"path": "components/crash/core/common/crash_key_breakpad.cc",
+"bytes": 5007
+},
+{
+"path": "components/crash/core/common/reporter_running_ios.cc",
+"bytes": 615
+},
+{
+"path": "components/crash/core/common/objc_zombie.mm",
+"bytes": 14601
+},
+{
+"path": "components/crash/core/common/crash_key_stubs.cc",
+"bytes": 914
+},
+{
+"path": "components/crash/core/common/crash_key_base_support.h",
+"bytes": 537
+},
+{
+"path": "components/crash/core/common/crash_key.cc",
+"bytes": 1014
+},
+{
+"path": "components/crash/core/common/shared_memory_user_stream_writer.cc",
+"bytes": 5948
+},
+{
+"path": "components/crash/core/common/crash_key_internal.h",
+"bytes": 1052
+},
+{
+"path": "components/crash/core/common/shared_memory_user_stream_reader.h",
+"bytes": 1314
+},
+{
+"path": "components/crash/core/common/shared_memory_user_stream_reader.cc",
+"bytes": 6754
+},
+{
+"path": "components/crash/core/common/crash_key_base_support.cc",
+"bytes": 4556
+},
+{
+"path": "components/crash/core/common/shared_memory_user_stream_writer.h",
+"bytes": 2830
+},
+{
+"path": "components/crash/core/common/objc_zombie.h",
+"bytes": 1495
+},
+{
+"path": "components/crash/core/common/reporter_running_ios.h",
+"bytes": 735
+},
+{
+"path": "components/crash/core/common/crash_export.h",
+"bytes": 824
+},
+{
+"path": "components/crash/core/common/crash_key.h",
+"bytes": 9221
+},
+{
+"path": "components/crash/core/common/crash_key_crashpad.cc",
+"bytes": 1705
+},
+{
+"path": "components/crash/core/common/crash_keys.h",
+"bytes": 3628
+},
+{
+"path": "components/crash/core/common/shared_memory_user_stream.h",
+"bytes": 2959
+},
+{
+"path": "blink/public/platform/modules/mediastream/web_media_stream_source.h",
+"bytes": 3479
+},
+{
+"path": "blink/public/platform/modules/mediastream/web_media_stream_sink.h",
+"bytes": 2265
+},
+{
+"path": "blink/public/platform/modules/mediastream/web_media_stream_track.h",
+"bytes": 3017
+},
+{
+"path": "blink/public/platform/modules/mediastream/media_stream_types.h",
+"bytes": 986
+},
+{
+"path": "blink/public/platform/modules/mediastream/secure_display_link_tracker.h",
+"bytes": 1928
+},
+{
+"path": "blink/public/platform/modules/mediastream/web_media_stream_audio_sink.h",
+"bytes": 3354
+},
+{
+"path": "blink/public/platform/modules/mediastream/web_media_stream.h",
+"bytes": 4106
+},
+{
+"path": "blink/public/platform/modules/mediastream/web_platform_media_stream_source.h",
+"bytes": 4729
+},
+{
+"path": "blink/public/platform/modules/webrtc/webrtc_logging.h",
+"bytes": 2783
+},
+{
+"path": "blink/public/web/modules/mediastream/encoded_video_frame.h",
+"bytes": 1729
+},
+{
+"path": "blink/public/web/modules/mediastream/media_stream_video_source.h",
+"bytes": 22349
+},
+{
+"path": "blink/public/web/modules/mediastream/web_media_player_ms.h",
+"bytes": 14920
+},
+{
+"path": "blink/public/web/modules/mediastream/web_media_stream_utils.h",
+"bytes": 1072
+},
+{
+"path": "blink/public/web/modules/mediastream/media_stream_video_sink.h",
+"bytes": 2975
+},
+{
+"path": "blink/public/web/modules/mediastream/web_media_stream_device_observer.h",
+"bytes": 3061
+},
+{
+"path": "blink/renderer/core/origin_trials/origin_trial_context.cc",
+"bytes": 28303
+},
+{
+"path": "blink/renderer/core/origin_trials/origin_trial_context.h",
+"bytes": 12684
+},
+{
+"path": "blink/public/common/metrics/document_update_reason.h",
+"bytes": 1353
+},
+{
+"path": "blink/public/common/metrics/accept_language_and_content_language_usage.h",
+"bytes": 1766
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_texture_alpha_clearer.h",
+"bytes": 1431
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_shared_image_cache.h",
+"bytes": 6219
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_swap_buffer_provider.h",
+"bytes": 8578
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_swap_buffer_provider.cc",
+"bytes": 17130
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_shared_image_cache.cc",
+"bytes": 11808
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_mailbox_texture.cc",
+"bytes": 13521
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_mailbox_buffer.cc",
+"bytes": 2825
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_texture_alpha_clearer.cc",
+"bytes": 4380
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_callback.h",
+"bytes": 871
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_mailbox_texture.h",
+"bytes": 4318
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_mailbox_buffer.h",
+"bytes": 2409
+},
+{
+"path": "blink/renderer/platform/graphics/gpu/webgpu_cpp.h",
+"bytes": 771
+}
+]

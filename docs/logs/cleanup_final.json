@@ -1,0 +1,257 @@
+[
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/features_extraction.cc",
+"bytes": 3782,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/ring_buffer.h",
+"bytes": 2114,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/pitch_search.h",
+"bytes": 1823,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_gru.cc",
+"bytes": 8547,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_fc.cc",
+"bytes": 3866,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_fc.h",
+"bytes": 2762,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/pitch_search_internal.h",
+"bytes": 4411,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/spectral_features.cc",
+"bytes": 9192,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/pitch_search.cc",
+"bytes": 3136,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_gru.h",
+"bytes": 2691,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/spectral_features_internal.h",
+"bytes": 4138,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/auto_correlation.cc",
+"bytes": 3897,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/auto_correlation.h",
+"bytes": 1646,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/spectral_features_internal.cc",
+"bytes": 8215,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/pitch_search_internal.cc",
+"bytes": 23052,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/lp_residual.cc",
+"bytes": 5100,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/features_extraction.h",
+"bytes": 2501,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/vector_math_avx2.cc",
+"bytes": 1949,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/spectral_features.h",
+"bytes": 3242,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/lp_residual.h",
+"bytes": 1399,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/common.h",
+"bytes": 3212,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_vad_tool.cc",
+"bytes": 4547,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/sequence_buffer.h",
+"bytes": 2927,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/vector_math.h",
+"bytes": 4150,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/symmetric_matrix_buffer.h",
+"bytes": 3911,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn.cc",
+"bytes": 3248,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn.h",
+"bytes": 1563,
+"reason": "RNN VAD disabled in Chromium (pffft/rnnoise not vendored in DEPS)"
+},
+{
+"path": "third_party/pffft/src/pffft.c",
+"bytes": 65465,
+"reason": "pffft only used by rnn_vad (disabled in Chromium)"
+},
+{
+"path": "third_party/pffft/src/pffft.h",
+"bytes": 6848,
+"reason": "pffft only used by rnn_vad (disabled in Chromium)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/kernels/variable_ops_wrapper.cc",
+"bytes": 1101,
+"reason": "optional tflite kernel/feature pulling pybind11/xnnpack/experimental-resource (not used for audio ML)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/kernels/hashtable_import.cc",
+"bytes": 4025,
+"reason": "optional tflite kernel/feature pulling pybind11/xnnpack/experimental-resource (not used for audio ML)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/kernels/call_once.cc",
+"bytes": 4567,
+"reason": "optional tflite kernel/feature pulling pybind11/xnnpack/experimental-resource (not used for audio ML)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/tflite_with_xnnpack_optional.cc",
+"bytes": 2243,
+"reason": "optional tflite kernel/feature pulling pybind11/xnnpack/experimental-resource (not used for audio ML)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/profiling/profile_summary_formatter.cc",
+"bytes": 12260,
+"reason": "optional tflite kernel/feature pulling pybind11/xnnpack/experimental-resource (not used for audio ML)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/kernels/parse_example/parse_example.cc",
+"bytes": 39281,
+"reason": "tflite parse_example (needs full TF core/framework; not used)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/kernels/parse_example/example_proto_fast_parsing.cc",
+"bytes": 5988,
+"reason": "tflite parse_example (needs full TF core/framework; not used)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/kernels/parse_example/parse_example.h",
+"bytes": 1205,
+"reason": "tflite parse_example (needs full TF core/framework; not used)"
+},
+{
+"path": "third_party/tflite/src/tensorflow/lite/kernels/parse_example/example_proto_fast_parsing.h",
+"bytes": 23347,
+"reason": "tflite parse_example (needs full TF core/framework; not used)"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_wrapper.h",
+"bytes": 9796,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/pc/peer_connection_wrapper.cc",
+"bytes": 13689,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/video_loopback_main.cc",
+"bytes": 521,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/video_loopback.cc",
+"bytes": 16485,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/video_loopback.h",
+"bytes": 634,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/video_loopback_main.mm",
+"bytes": 547,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/video_analyzer.cc",
+"bytes": 41779,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/video_analyzer.h",
+"bytes": 14017,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/timing/simulator/rtc_event_log_driver.cc",
+"bytes": 12031,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/video/timing/simulator/rtc_event_log_driver.h",
+"bytes": 7550,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/api/video_codecs/video_decoder_software_fallback_wrapper.cc",
+"bytes": 9769,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/api/video_codecs/simple_encoder_wrapper.cc",
+"bytes": 9315,
+"reason": "WebRTC test/tool file"
+},
+{
+"path": "third_party/webrtc/api/video_codecs/video_encoder_software_fallback_wrapper.cc",
+"bytes": 21419,
+"reason": "WebRTC test/tool file"
+}
+]

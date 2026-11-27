@@ -1,0 +1,498 @@
+[
+{
+"path": "media/cdm/api/content_decryption_module_export.h",
+"bytes": 1364
+},
+{
+"path": "media/cdm/api/README.md",
+"bytes": 1689
+},
+{
+"path": "media/cdm/api/content_decryption_module_ext.h",
+"bytes": 1779
+},
+{
+"path": "media/cdm/api/content_decryption_module.h",
+"bytes": 82841
+},
+{
+"path": "third_party/sframe/src/README.md",
+"bytes": 1139
+},
+{
+"path": "third_party/sframe/src/.gitignore",
+"bytes": 325
+},
+{
+"path": "third_party/sframe/src/Makefile",
+"bytes": 1988
+},
+{
+"path": "third_party/sframe/src/.clang-format",
+"bytes": 51
+},
+{
+"path": "third_party/sframe/src/LICENSE",
+"bytes": 2734
+},
+{
+"path": "third_party/sframe/src/cmake/namespace.h.in",
+"bytes": 98
+},
+{
+"path": "third_party/sframe/src/include/gsl-lite/gsl-lite.hpp",
+"bytes": 284197
+},
+{
+"path": "third_party/sframe/src/include/sframe/map.h",
+"bytes": 2765
+},
+{
+"path": "third_party/sframe/src/include/sframe/result.h",
+"bytes": 5023
+},
+{
+"path": "third_party/sframe/src/include/sframe/vector.h",
+"bytes": 3815
+},
+{
+"path": "third_party/sframe/src/include/sframe/sframe.h",
+"bytes": 6914
+},
+{
+"path": "third_party/sframe/src/include/sframe/span.h",
+"bytes": 714
+},
+{
+"path": "third_party/sframe/src/src/header.h",
+"bytes": 747
+},
+{
+"path": "third_party/sframe/src/src/result.cpp",
+"bytes": 1276
+},
+{
+"path": "third_party/sframe/src/src/sframe.cpp",
+"bytes": 13081
+},
+{
+"path": "third_party/sframe/src/src/crypto_boringssl.cpp",
+"bytes": 14073
+},
+{
+"path": "third_party/sframe/src/src/crypto_openssl3.cpp",
+"bytes": 15882
+},
+{
+"path": "third_party/sframe/src/src/crypto_openssl11.cpp",
+"bytes": 15304
+},
+{
+"path": "third_party/sframe/src/src/crypto.h",
+"bytes": 1210
+},
+{
+"path": "third_party/sframe/src/src/crypto.cpp",
+"bytes": 3816
+},
+{
+"path": "third_party/sframe/src/src/header.cpp",
+"bytes": 5397
+},
+{
+"path": "third_party/sframe/src/alternatives/OPENSSL_3/vcpkg.json",
+"bytes": 378
+},
+{
+"path": "third_party/sframe/src/alternatives/BORINGSSL/vcpkg.json",
+"bytes": 305
+},
+{
+"path": "third_party/sframe/src/alternatives/OPENSSL_1_1/vcpkg.json",
+"bytes": 375
+},
+{
+"path": "blink/public/platform/modules/video_capture/web_video_capture_impl_manager.h",
+"bytes": 7016
+},
+{
+"path": "blink/renderer/platform/p2p/socket_client.h",
+"bytes": 1542
+},
+{
+"path": "blink/renderer/platform/p2p/ipc_network_manager.h",
+"bytes": 3010
+},
+{
+"path": "blink/renderer/platform/p2p/host_address_request.h",
+"bytes": 2378
+},
+{
+"path": "blink/renderer/platform/p2p/network_list_manager.h",
+"bytes": 1502
+},
+{
+"path": "blink/renderer/platform/p2p/socket_client_impl.h",
+"bytes": 4801
+},
+{
+"path": "blink/renderer/platform/p2p/filtering_network_manager.h",
+"bytes": 5044
+},
+{
+"path": "blink/renderer/platform/p2p/port_allocator.h",
+"bytes": 2220
+},
+{
+"path": "blink/renderer/platform/p2p/socket_client_delegate.h",
+"bytes": 1614
+},
+{
+"path": "blink/renderer/platform/p2p/network_manager_uma.h",
+"bytes": 1110
+},
+{
+"path": "blink/renderer/platform/p2p/socket_dispatcher.h",
+"bytes": 4599
+},
+{
+"path": "blink/renderer/platform/p2p/network_list_observer.h",
+"bytes": 1083
+},
+{
+"path": "blink/renderer/platform/p2p/mdns_responder_adapter.h",
+"bytes": 1906
+},
+{
+"path": "blink/renderer/platform/p2p/ipc_network_manager.cc",
+"bytes": 8589
+},
+{
+"path": "blink/renderer/platform/p2p/filtering_network_manager.cc",
+"bytes": 8592
+},
+{
+"path": "blink/renderer/platform/p2p/host_address_request.cc",
+"bytes": 2363
+},
+{
+"path": "blink/renderer/platform/p2p/empty_network_manager.h",
+"bytes": 3322
+},
+{
+"path": "blink/renderer/platform/p2p/mdns_responder_adapter.cc",
+"bytes": 2566
+},
+{
+"path": "blink/renderer/platform/p2p/ipc_socket_factory.cc",
+"bytes": 31478
+},
+{
+"path": "blink/renderer/platform/p2p/socket_dispatcher.cc",
+"bytes": 6643
+},
+{
+"path": "blink/renderer/platform/p2p/socket_client_impl.cc",
+"bytes": 6536
+},
+{
+"path": "blink/renderer/platform/p2p/port_allocator.cc",
+"bytes": 1935
+},
+{
+"path": "blink/renderer/platform/p2p/empty_network_manager.cc",
+"bytes": 2812
+},
+{
+"path": "blink/renderer/platform/p2p/ipc_socket_factory.h",
+"bytes": 3322
+},
+{
+"path": "net/reporting/reporting_network_change_observer.h",
+"bytes": 829
+},
+{
+"path": "net/reporting/reporting_cache.cc",
+"bytes": 523
+},
+{
+"path": "net/reporting/reporting_context.cc",
+"bytes": 4461
+},
+{
+"path": "net/reporting/reporting_policy.proto",
+"bytes": 1365
+},
+{
+"path": "net/reporting/reporting_target_type.h",
+"bytes": 587
+},
+{
+"path": "net/reporting/reporting_cache_impl.h",
+"bytes": 19283
+},
+{
+"path": "net/reporting/reporting_network_change_observer.cc",
+"bytes": 2276
+},
+{
+"path": "net/reporting/README.md",
+"bytes": 9051
+},
+{
+"path": "net/reporting/reporting_cache_observer.cc",
+"bytes": 734
+},
+{
+"path": "net/reporting/reporting_report.cc",
+"bytes": 2213
+},
+{
+"path": "net/reporting/reporting_garbage_collector.cc",
+"bytes": 3642
+},
+{
+"path": "net/reporting/reporting_cache_observer.h",
+"bytes": 1439
+},
+{
+"path": "net/reporting/reporting_policy.h",
+"bytes": 2978
+},
+{
+"path": "net/reporting/reporting_delivery_agent.h",
+"bytes": 2938
+},
+{
+"path": "net/reporting/reporting_uploader.h",
+"bytes": 2121
+},
+{
+"path": "net/reporting/reporting_delegate.h",
+"bytes": 1592
+},
+{
+"path": "net/reporting/reporting_cache.h",
+"bytes": 17570
+},
+{
+"path": "net/reporting/reporting_cache_impl.cc",
+"bytes": 66512
+},
+{
+"path": "net/reporting/reporting_endpoint_manager.h",
+"bytes": 2558
+},
+{
+"path": "net/reporting/reporting_uploader.cc",
+"bytes": 16430
+},
+{
+"path": "net/reporting/reporting_endpoint.cc",
+"bytes": 6163
+},
+{
+"path": "net/reporting/reporting_endpoint_manager.cc",
+"bytes": 6567
+},
+{
+"path": "net/reporting/reporting_delivery_agent.cc",
+"bytes": 22151
+},
+{
+"path": "net/reporting/reporting_policy.cc",
+"bytes": 1377
+},
+{
+"path": "net/reporting/reporting_service.h",
+"bytes": 6189
+},
+{
+"path": "net/reporting/reporting_header_parser.cc",
+"bytes": 12651
+},
+{
+"path": "net/reporting/reporting_delegate.cc",
+"bytes": 2109
+},
+{
+"path": "net/reporting/reporting_browsing_data_remover.h",
+"bytes": 1859
+},
+{
+"path": "net/reporting/reporting_service.cc",
+"bytes": 13443
+},
+{
+"path": "net/reporting/reporting_header_parser.h",
+"bytes": 2057
+},
+{
+"path": "net/reporting/reporting_browsing_data_remover.cc",
+"bytes": 1659
+},
+{
+"path": "net/reporting/reporting_context.h",
+"bytes": 4320
+},
+{
+"path": "net/reporting/reporting_garbage_collector.h",
+"bytes": 1163
+},
+{
+"path": "net/reporting/reporting_endpoint.h",
+"bytes": 8502
+},
+{
+"path": "net/reporting/reporting_report.h",
+"bytes": 5022
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.nonsemantic.debugbreak.grammar.json",
+"bytes": 109
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.glsl.std.450.grammar.json",
+"bytes": 13369
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/spv.d",
+"bytes": 82427
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.nonsemantic.shader.debuginfo.grammar.json",
+"bytes": 19798
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/TOSA.001000.1.h",
+"bytes": 1980
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/AMD_shader_ballot.h",
+"bytes": 924
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.spv-amd-shader-explicit-vertex-parameter.grammar.json",
+"bytes": 325
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/DebugInfo.h",
+"bytes": 3641
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/NonSemanticShaderDebugInfo.h",
+"bytes": 6654
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.nonsemantic.vkspreflection.grammar.json",
+"bytes": 5235
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.spv-amd-shader-ballot.grammar.json",
+"bytes": 1049
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.arm.motion-engine.100.grammar.json",
+"bytes": 2550
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/ArmMotionEngine.100.h",
+"bytes": 679
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/OpenCL.std.h",
+"bytes": 8843
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/NonSemanticDebugPrintf.h",
+"bytes": 820
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.nonsemantic.graph.debuginfo.grammar.json",
+"bytes": 868
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.tosa.001000.1.grammar.json",
+"bytes": 19867
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.spv-amd-gcn-shader.grammar.json",
+"bytes": 531
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/AMD_shader_trinary_minmax.h",
+"bytes": 1185
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/NonSemanticShaderDebugInfo100.h",
+"bytes": 7109
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/NonSemanticGraphDebugInfo.h",
+"bytes": 676
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.opencl.debuginfo.100.grammar.json",
+"bytes": 18252
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/NonSemanticDebugBreak.h",
+"bytes": 811
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/AMD_shader_explicit_vertex_parameter.h",
+"bytes": 943
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/NonSemanticVkspReflection.h",
+"bytes": 1206
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.arm.experimental-ml-operations.grammar.json",
+"bytes": 444
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.nonsemantic.clspvreflection.grammar.json",
+"bytes": 13258
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.spv-amd-shader-trinary-minmax.grammar.json",
+"bytes": 2566
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/AMD_gcn_shader.h",
+"bytes": 832
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.opencl.std.100.grammar.json",
+"bytes": 27684
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.nonsemantic.debugprintf.grammar.json",
+"bytes": 252
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.debuginfo.grammar.json",
+"bytes": 15853
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/extinst.nonsemantic.shader.debuginfo.100.grammar.json",
+"bytes": 19145
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/ArmExperimentalMLOperations.h",
+"bytes": 586
+},
+{
+"path": "third_party/spirv-headers/src/include/spirv/unified1/org/khronos/spv/Spv.java",
+"bytes": 99244
+},
+{
+"path": "third_party/pffft/src/pffft.c",
+"bytes": 65465
+},
+{
+"path": "third_party/pffft/src/pffft.h",
+"bytes": 6848
+}
+]

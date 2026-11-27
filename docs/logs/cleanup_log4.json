@@ -1,0 +1,27 @@
+[
+{
+"path": "third_party/webrtc/api/audio/tflite_model_handle.h",
+"bytes": 999,
+"reason": "Optional tflite neural echo estimator (tflite not vendored); standard AEC retained"
+},
+{
+"path": "third_party/webrtc/api/audio/neural_residual_echo_estimator.h",
+"bytes": 2690,
+"reason": "Optional tflite neural echo estimator (tflite not vendored); standard AEC retained"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/aec3/neural_residual_echo_estimator/neural_residual_echo_estimator_impl.h",
+"bytes": 8677,
+"reason": "Optional tflite neural echo estimator (tflite not vendored); standard AEC retained"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/aec3/neural_residual_echo_estimator/neural_residual_echo_estimator.proto",
+"bytes": 555,
+"reason": "Optional tflite neural echo estimator (tflite not vendored); standard AEC retained"
+},
+{
+"path": "third_party/webrtc/modules/audio_processing/aec3/neural_residual_echo_estimator/neural_residual_echo_estimator_impl.cc",
+"bytes": 29530,
+"reason": "Optional tflite neural echo estimator (tflite not vendored); standard AEC retained"
+}
+]

@@ -1,0 +1,76 @@
+{
+ "base_metrics": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/base/metrics.tar.gz",
+  "sha256": "f2ab052f90132e2f29ef760ba507a2bde5598350427455a3eb2760e7d197ca46",
+  "archive_bytes": 263105
+ },
+ "services_metrics_public_cpp": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/services/metrics/public/cpp.tar.gz",
+  "sha256": "c8ca64c91db07346bb4c8fb4205cd5bbfc7501f12576ca90885f6c588d057eab",
+  "archive_bytes": 23895
+ },
+ "services_metrics_public_mojom": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/services/metrics/public/mojom.tar.gz",
+  "sha256": "2cca8ba1f375034b4dade4c8536e1c6b83f1b0abf393d00528922758b62d4f1f",
+  "archive_bytes": 1451
+ },
+ "boringssl_pki": {
+  "url": "https://boringssl.googlesource.com/boringssl/+archive/ea9f3a34c3977144c45d272be81842fd891a0bdb/pki.tar.gz",
+  "sha256": "4929176ccfe5959981d91cd0d904d0425245e33e6e293e9eefb2b11ad1e176d7",
+  "archive_bytes": 2105319
+ },
+ "net_storage_access_api": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/net/storage_access_api.tar.gz",
+  "sha256": "1d16e4f8150379476bfaf1e6c2ea9ea09a99e868a93a9555e53221233650f815",
+  "archive_bytes": 510
+ },
+ "net_proxy_resolution": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/net/proxy_resolution.tar.gz",
+  "sha256": "592e0a93abc9af59eded9e2585bbab1c636a98b986cf5fda6aaf201b28661554",
+  "archive_bytes": 250755
+ },
+ "cc_metrics": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/cc/metrics.tar.gz",
+  "sha256": "84b8c1fa18bc1ad2de772dd84172e6d3297813e52445f8722c2c159098baeb4a",
+  "archive_bytes": 234081
+ },
+ "components_crash_core_common": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/components/crash/core/common.tar.gz",
+  "sha256": "03d76baa2a0e506531e8ab736be1104173fdcb543e566c7648a0276f73791198",
+  "archive_bytes": 29162
+ },
+ "blink_pubplat_mediastream": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/platform/modules/mediastream.tar.gz",
+  "sha256": "eb65990cb860caec4ed2cf1a2a7d3e87c939cd88535508b76f532cde479e148c",
+  "archive_bytes": 6614
+ },
+ "blink_pubplat_webrtc": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/platform/modules/webrtc.tar.gz",
+  "sha256": "374165302c93602ae10a88ba35aab4713847e66723de25bdd21530855c016b8a",
+  "archive_bytes": 1699
+ },
+ "blink_pubplat_peerconnection": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/platform/modules/peerconnection.tar.gz",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ "blink_pubweb_mediastream": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/web/modules/mediastream.tar.gz",
+  "sha256": "3166342b219a5974205eeadd876c3e55476c7f96c5137c716c11e366eac83e56",
+  "archive_bytes": 13181
+ },
+ "blink_core_origin_trials": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/renderer/core/origin_trials.tar.gz",
+  "sha256": "fbf27448daea60a1366e2f50267f1463ca7ad4d8aeb3b290cae6726a6540ab56",
+  "archive_bytes": 15258
+ },
+ "blink_pubcommon_metrics": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/common/metrics.tar.gz",
+  "sha256": "6dda107c8150d6cf6bea3bd4d400bfedc13b7a33affcb51a9242e907da9c91b4",
+  "archive_bytes": 1353
+ },
+ "blink_plat_graphics_gpu": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/renderer/platform/graphics/gpu.tar.gz",
+  "sha256": "1f5974259a01d43c04c0a25d049ef7e6b8fed1a135f135dbb85c3c54637cf6b1",
+  "archive_bytes": 120749
+ }
+}

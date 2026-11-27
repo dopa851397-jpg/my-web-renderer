@@ -1,0 +1,51 @@
+{
+ "content_browser_permissions": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/content/browser/permissions.tar.gz",
+  "sha256": "94075b6a1bee66feafc3b5b348c5791c1bcb44f121db250df136a6b65e13715b",
+  "archive_bytes": 49567
+ },
+ "blink_pubcommon_origin_trials": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/common/origin_trials.tar.gz",
+  "sha256": "59b840e4719d02219864ca668675f704b1278e7a6816bf53b073fb7f3e31130b",
+  "archive_bytes": 10006
+ },
+ "blink_platform_webrtc": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/renderer/platform/webrtc.tar.gz",
+  "sha256": "72f9e6d721fe1a9d67b89155f0433f8ec5bdc183e89f408d5d6bb3be6dc4fa1a",
+  "archive_bytes": 27592
+ },
+ "blink_platform_video_capture": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/renderer/platform/video_capture.tar.gz",
+  "sha256": "7cf5e7c4ab10a29eb26e3e6286f694a9be5930b687b4e0445e86bc2556d9d260",
+  "archive_bytes": 22613
+ },
+ "services_media_session_cpp": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/services/media_session/public/cpp.tar.gz",
+  "sha256": "c55e074545fa6f305eec5d13e75eb64390360c340d4b85467a379fd3b911449b",
+  "archive_bytes": 26964
+ },
+ "media_cdm": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/media/cdm.tar.gz",
+  "sha256": "cdbe430e708aa4c0f235762fc7858b290cfe44a649df97b67ed05755f2b6692b",
+  "archive_bytes": 190532
+ },
+ "angle_capture": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/angle/src/libANGLE/capture.tar.gz",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ "skia_graphite_dawn_inc": {
+  "url": "https://skia.googlesource.com/skia/+archive/3279352fdf1fbbd01a6dd024a52d3f178a6d5f07/include/gpu/graphite/dawn.tar.gz",
+  "sha256": "7c4cefda6b63a27b3b5640b423a66fa4b271aac10998f12d4de51d904897e738",
+  "archive_bytes": 3464
+ },
+ "skia_graphite_dawn_src": {
+  "url": "https://skia.googlesource.com/skia/+archive/3279352fdf1fbbd01a6dd024a52d3f178a6d5f07/src/gpu/graphite/dawn.tar.gz",
+  "sha256": "57662d56a756917bed6a6d305c6cd413712e5de0b7d8a84a92b941ca0a8d6504",
+  "archive_bytes": 67282
+ },
+ "boringssl_pki_inc": {
+  "url": "https://boringssl.googlesource.com/boringssl/+archive/ea9f3a34c3977144c45d272be81842fd891a0bdb/include/openssl/pki.tar.gz",
+  "sha256": "46b89e1ef1c7718bedb14f6da3b03c3d31b1f70c0a31ea9edf5ea1bc30ebdd7d",
+  "archive_bytes": 6809
+ }
+}

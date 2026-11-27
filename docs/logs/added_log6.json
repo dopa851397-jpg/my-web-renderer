@@ -1,0 +1,950 @@
+[
+{
+"path": "third_party/ruy/src/.gitmodules",
+"bytes": 192
+},
+{
+"path": "third_party/ruy/src/CONTRIBUTING.md",
+"bytes": 1097
+},
+{
+"path": "third_party/ruy/src/README.md",
+"bytes": 1031
+},
+{
+"path": "third_party/ruy/src/.gitignore",
+"bytes": 297
+},
+{
+"path": "third_party/ruy/src/WORKSPACE",
+"bytes": 1494
+},
+{
+"path": "third_party/ruy/src/LICENSE",
+"bytes": 11358
+},
+{
+"path": "third_party/ruy/src/cmake/bazel_to_cmake.py",
+"bytes": 8742
+},
+{
+"path": "third_party/ruy/src/cmake/ruy_cc_binary.cmake",
+"bytes": 1444
+},
+{
+"path": "third_party/ruy/src/cmake/ruyConfig.cmake.in",
+"bytes": 175
+},
+{
+"path": "third_party/ruy/src/cmake/ruy_cc_library.cmake",
+"bytes": 2625
+},
+{
+"path": "third_party/ruy/src/cmake/ruy_include_directories.cmake",
+"bytes": 798
+},
+{
+"path": "third_party/ruy/src/cmake/bazel_to_cmake.sh",
+"bytes": 1191
+},
+{
+"path": "third_party/ruy/src/cmake/ruy_add_all_subdirs.cmake",
+"bytes": 1282
+},
+{
+"path": "third_party/ruy/src/doc/README.md",
+"bytes": 79
+},
+{
+"path": "third_party/ruy/src/doc/depgraph.sh",
+"bytes": 3380
+},
+{
+"path": "third_party/ruy/src/doc/depgraph.svg",
+"bytes": 20478
+},
+{
+"path": "third_party/ruy/src/example/README.md",
+"bytes": 238
+},
+{
+"path": "third_party/ruy/src/example/example.cc",
+"bytes": 7054
+},
+{
+"path": "third_party/ruy/src/example/parametrized_example.cc",
+"bytes": 7567
+},
+{
+"path": "third_party/ruy/src/third_party/cpuinfo.BUILD",
+"bytes": 8931
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_arm32.cc",
+"bytes": 96802
+},
+{
+"path": "third_party/ruy/src/ruy/thread_pool.h",
+"bytes": 5242
+},
+{
+"path": "third_party/ruy/src/ruy/path.h",
+"bytes": 8796
+},
+{
+"path": "third_party/ruy/src/ruy/apply_multiplier.cc",
+"bytes": 2637
+},
+{
+"path": "third_party/ruy/src/ruy/wait.h",
+"bytes": 3180
+},
+{
+"path": "third_party/ruy/src/ruy/pack_arm.h",
+"bytes": 26003
+},
+{
+"path": "third_party/ruy/src/ruy/tune.h",
+"bytes": 5512
+},
+{
+"path": "third_party/ruy/src/ruy/check_macros.h",
+"bytes": 4947
+},
+{
+"path": "third_party/ruy/src/ruy/denormal.cc",
+"bytes": 4292
+},
+{
+"path": "third_party/ruy/src/ruy/test.h",
+"bytes": 84481
+},
+{
+"path": "third_party/ruy/src/ruy/pmu.h",
+"bytes": 1294
+},
+{
+"path": "third_party/ruy/src/ruy/build_defs.bzl",
+"bytes": 2767
+},
+{
+"path": "third_party/ruy/src/ruy/kernel.h",
+"bytes": 10695
+},
+{
+"path": "third_party/ruy/src/ruy/context_get_ctx.h",
+"bytes": 1105
+},
+{
+"path": "third_party/ruy/src/ruy/build_defs.oss.bzl",
+"bytes": 849
+},
+{
+"path": "third_party/ruy/src/ruy/opt_set.h",
+"bytes": 1842
+},
+{
+"path": "third_party/ruy/src/ruy/cpuinfo.h",
+"bytes": 1485
+},
+{
+"path": "third_party/ruy/src/ruy/prepare_packed_matrices.cc",
+"bytes": 4125
+},
+{
+"path": "third_party/ruy/src/ruy/size_util.h",
+"bytes": 2892
+},
+{
+"path": "third_party/ruy/src/ruy/pack_avx2_fma.cc",
+"bytes": 30381
+},
+{
+"path": "third_party/ruy/src/ruy/side_pair.h",
+"bytes": 2086
+},
+{
+"path": "third_party/ruy/src/ruy/ruy.h",
+"bytes": 4622
+},
+{
+"path": "third_party/ruy/src/ruy/have_built_path_for_avx512.cc",
+"bytes": 1125
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_avx2_fma.cc",
+"bytes": 48673
+},
+{
+"path": "third_party/ruy/src/ruy/trmul.cc",
+"bytes": 18206
+},
+{
+"path": "third_party/ruy/src/ruy/blocking_counter.cc",
+"bytes": 1602
+},
+{
+"path": "third_party/ruy/src/ruy/trmul.h",
+"bytes": 1480
+},
+{
+"path": "third_party/ruy/src/ruy/benchmark.cc",
+"bytes": 8567
+},
+{
+"path": "third_party/ruy/src/ruy/system_aligned_alloc.h",
+"bytes": 2122
+},
+{
+"path": "third_party/ruy/src/ruy/context.h",
+"bytes": 4084
+},
+{
+"path": "third_party/ruy/src/ruy/pack_avx512.cc",
+"bytes": 45231
+},
+{
+"path": "third_party/ruy/src/ruy/thread_pool.cc",
+"bytes": 9461
+},
+{
+"path": "third_party/ruy/src/ruy/ctx.cc",
+"bytes": 8238
+},
+{
+"path": "third_party/ruy/src/ruy/apply_multiplier.h",
+"bytes": 3913
+},
+{
+"path": "third_party/ruy/src/ruy/matrix.h",
+"bytes": 8184
+},
+{
+"path": "third_party/ruy/src/ruy/mul_params.h",
+"bytes": 13690
+},
+{
+"path": "third_party/ruy/src/ruy/ctx.h",
+"bytes": 3488
+},
+{
+"path": "third_party/ruy/src/ruy/strategy_controls.h",
+"bytes": 1132
+},
+{
+"path": "third_party/ruy/src/ruy/denormal.h",
+"bytes": 1870
+},
+{
+"path": "third_party/ruy/src/ruy/prepacked_cache.h",
+"bytes": 6037
+},
+{
+"path": "third_party/ruy/src/ruy/tune.cc",
+"bytes": 1549
+},
+{
+"path": "third_party/ruy/src/ruy/context.cc",
+"bytes": 2459
+},
+{
+"path": "third_party/ruy/src/ruy/gtest_wrapper.h",
+"bytes": 1240
+},
+{
+"path": "third_party/ruy/src/ruy/performance_advisory.h",
+"bytes": 1453
+},
+{
+"path": "third_party/ruy/src/ruy/pack_arm.cc",
+"bytes": 98840
+},
+{
+"path": "third_party/ruy/src/ruy/wait.cc",
+"bytes": 1372
+},
+{
+"path": "third_party/ruy/src/ruy/prepacked_cache.cc",
+"bytes": 4936
+},
+{
+"path": "third_party/ruy/src/ruy/context_get_ctx.cc",
+"bytes": 943
+},
+{
+"path": "third_party/ruy/src/ruy/allocator.cc",
+"bytes": 4693
+},
+{
+"path": "third_party/ruy/src/ruy/cpu_cache_params.h",
+"bytes": 4159
+},
+{
+"path": "third_party/ruy/src/ruy/prepare_packed_matrices.h",
+"bytes": 1673
+},
+{
+"path": "third_party/ruy/src/ruy/platform.h",
+"bytes": 5051
+},
+{
+"path": "third_party/ruy/src/ruy/frontend.cc",
+"bytes": 1210
+},
+{
+"path": "third_party/ruy/src/ruy/have_built_path_for_avx2_fma.cc",
+"bytes": 1133
+},
+{
+"path": "third_party/ruy/src/ruy/trmul_params.h",
+"bytes": 3691
+},
+{
+"path": "third_party/ruy/src/ruy/time.h",
+"bytes": 2678
+},
+{
+"path": "third_party/ruy/src/ruy/pack.h",
+"bytes": 6559
+},
+{
+"path": "third_party/ruy/src/ruy/pack_x86.h",
+"bytes": 30192
+},
+{
+"path": "third_party/ruy/src/ruy/have_built_path_for.h",
+"bytes": 985
+},
+{
+"path": "third_party/ruy/src/ruy/cpuinfo.cc",
+"bytes": 5859
+},
+{
+"path": "third_party/ruy/src/ruy/allocator.h",
+"bytes": 3776
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_common.h",
+"bytes": 10716
+},
+{
+"path": "third_party/ruy/src/ruy/system_aligned_alloc.cc",
+"bytes": 1220
+},
+{
+"path": "third_party/ruy/src/ruy/reference_mul.h",
+"bytes": 2051
+},
+{
+"path": "third_party/ruy/src/ruy/validate.h",
+"bytes": 3317
+},
+{
+"path": "third_party/ruy/src/ruy/pmu.cc",
+"bytes": 9575
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_x86.h",
+"bytes": 35219
+},
+{
+"path": "third_party/ruy/src/ruy/blocking_counter.h",
+"bytes": 2447
+},
+{
+"path": "third_party/ruy/src/ruy/pack_avx.cc",
+"bytes": 35718
+},
+{
+"path": "third_party/ruy/src/ruy/have_built_path_for_avx.cc",
+"bytes": 1110
+},
+{
+"path": "third_party/ruy/src/ruy/mat.h",
+"bytes": 17196
+},
+{
+"path": "third_party/ruy/src/ruy/asm_helpers.h",
+"bytes": 1389
+},
+{
+"path": "third_party/ruy/src/ruy/trace.h",
+"bytes": 34928
+},
+{
+"path": "third_party/ruy/src/ruy/pack_common.h",
+"bytes": 5688
+},
+{
+"path": "third_party/ruy/src/ruy/block_map.h",
+"bytes": 7515
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_avx.cc",
+"bytes": 67572
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_arm.h",
+"bytes": 8785
+},
+{
+"path": "third_party/ruy/src/ruy/create_trmul_params.h",
+"bytes": 21900
+},
+{
+"path": "third_party/ruy/src/ruy/block_map.cc",
+"bytes": 21523
+},
+{
+"path": "third_party/ruy/src/ruy/ctx_impl.h",
+"bytes": 3341
+},
+{
+"path": "third_party/ruy/src/ruy/frontend.h",
+"bytes": 4576
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_arm64.cc",
+"bytes": 390730
+},
+{
+"path": "third_party/ruy/src/ruy/kernel_avx512.cc",
+"bytes": 61121
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/instrumentation.h",
+"bytes": 6684
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/README.md",
+"bytes": 5929
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/treeview.cc",
+"bytes": 8239
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/test.cc",
+"bytes": 5878
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/treeview.h",
+"bytes": 5122
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/profiler.cc",
+"bytes": 3014
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/instrumentation.cc",
+"bytes": 3558
+},
+{
+"path": "third_party/ruy/src/ruy/profiler/profiler.h",
+"bytes": 3236
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/logging.h",
+"bytes": 934
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/subprocess.h",
+"bytes": 1248
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/path.h",
+"bytes": 1550
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/enable_tf2_utils.h",
+"bytes": 1194
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/str_util.h",
+"bytes": 2096
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/errors.h",
+"bytes": 3368
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/init_main.h",
+"bytes": 965
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/resource.h",
+"bytes": 986
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/ctstring_internal.h",
+"bytes": 881
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/stringprintf.h",
+"bytes": 1418
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cpu_feature_guard.h",
+"bytes": 1278
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/test.h",
+"bytes": 1251
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/refcount.h",
+"bytes": 1283
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/enable_tf2_utils.cc",
+"bytes": 1716
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/stacktrace_handler.h",
+"bytes": 1294
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/prefetch.h",
+"bytes": 1153
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/stream_executor_no_cuda.h",
+"bytes": 1459
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/raw_coding.h",
+"bytes": 1143
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/error_logging.h",
+"bytes": 947
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/demangle.h",
+"bytes": 1005
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/build_config.default.bzl",
+"bytes": 2335
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/byte_order.h",
+"bytes": 1005
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/png.h",
+"bytes": 1213
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/README.md",
+"bytes": 386
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/protobuf.h",
+"bytes": 1463
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/build_config_root.bzl",
+"bytes": 3339
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/file_system_helper.h",
+"bytes": 1343
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/notification.h",
+"bytes": 821
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/env_time.h",
+"bytes": 991
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/env.h",
+"bytes": 2033
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/rocm.h",
+"bytes": 867
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/thread_annotations.h",
+"bytes": 2039
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/file_statistics.h",
+"bytes": 1006
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/unbounded_work_queue.h",
+"bytes": 1188
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/ram_file_system.h",
+"bytes": 1294
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/setround.h",
+"bytes": 1024
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/snappy.h",
+"bytes": 1307
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/base64.h",
+"bytes": 1076
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/error_payloads.h",
+"bytes": 2008
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/mem.h",
+"bytes": 1552
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/file_system.h",
+"bytes": 1580
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/context.h",
+"bytes": 1087
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/macros.h",
+"bytes": 861
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/threadpool.h",
+"bytes": 1307
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/status_matchers.h",
+"bytes": 1139
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/float8.h",
+"bytes": 1159
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/ctstring.h",
+"bytes": 845
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/strcat.h",
+"bytes": 1340
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/platform_strings.cc",
+"bytes": 1805
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/coding.h",
+"bytes": 1956
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/stacktrace.h",
+"bytes": 1142
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/tensor_float_32_utils.h",
+"bytes": 1117
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/regexp.h",
+"bytes": 836
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/denormal.h",
+"bytes": 1289
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/tensor_coding.h",
+"bytes": 5572
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/platform_strings.h",
+"bytes": 21294
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cuda.h",
+"bytes": 867
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/numbers.h",
+"bytes": 1607
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/load_library.h",
+"bytes": 1096
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/protobuf_internal.h",
+"bytes": 1750
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/jpeg.h",
+"bytes": 1034
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/human_readable_json.h",
+"bytes": 1106
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/bfloat16.h",
+"bytes": 1020
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/null_file_system.h",
+"bytes": 1034
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/strong_hash.h",
+"bytes": 1742
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/build_config.bzl",
+"bytes": 4818
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/build_config_root.default.bzl",
+"bytes": 1359
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cpu_feature_guard.cc",
+"bytes": 8516
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/numa.h",
+"bytes": 1284
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/stream_executor.h",
+"bytes": 1479
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/rules_cc.bzl",
+"bytes": 1098
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/platform.h",
+"bytes": 845
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/stringpiece.h",
+"bytes": 1508
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/abi.h",
+"bytes": 989
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/casts.h",
+"bytes": 856
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/error_payloads.cc",
+"bytes": 1370
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/resource_loader.h",
+"bytes": 1236
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/distribute.bzl",
+"bytes": 4263
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/tensor_coding.cc",
+"bytes": 7786
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/hash.h",
+"bytes": 1177
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/blocking_counter.h",
+"bytes": 1076
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/threadpool_options.h",
+"bytes": 1088
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/gif.h",
+"bytes": 830
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/host_info.h",
+"bytes": 1091
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/tracing.h",
+"bytes": 1785
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/threadpool_interface.h",
+"bytes": 1050
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/rocm_rocdl_path.h",
+"bytes": 1038
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/statusor.h",
+"bytes": 1017
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/types.h",
+"bytes": 2377
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cpu_info.h",
+"bytes": 2878
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/dynamic_annotations.h",
+"bytes": 964
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/retrying_utils.h",
+"bytes": 1116
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/crash_analysis.h",
+"bytes": 920
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/fingerprint.h",
+"bytes": 1271
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/platform_strings_computed.h",
+"bytes": 19439
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/tstring.h",
+"bytes": 1038
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/random.h",
+"bytes": 1070
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/stack_frame.h",
+"bytes": 948
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/intrusive_ptr.h",
+"bytes": 1049
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/scanner.h",
+"bytes": 1005
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/mutex.h",
+"bytes": 1333
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cord.h",
+"bytes": 853
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/retrying_file_system.h",
+"bytes": 1354
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/net.h",
+"bytes": 1002
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/status.h",
+"bytes": 1704
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/file_block_cache.h",
+"bytes": 1543
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/auth_provider.h",
+"bytes": 1186
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/ram_file_block_cache.h",
+"bytes": 1540
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/compute_engine_metadata_client.h",
+"bytes": 1243
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/compute_engine_zone_provider.h",
+"bytes": 1211
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/google_auth_provider.h",
+"bytes": 1349
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/gcs_throttle.h",
+"bytes": 1114
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/http_request.h",
+"bytes": 1380
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/http_request_fake.h",
+"bytes": 1637
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/zone_provider.h",
+"bytes": 1114
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/now_seconds_env.h",
+"bytes": 1144
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/gcs_dns_cache.h",
+"bytes": 2782
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/time_util.h",
+"bytes": 1038
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/oauth_client.h",
+"bytes": 1186
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/expiring_lru_cache.h",
+"bytes": 1284
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/curl_http_request.h",
+"bytes": 1546
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/cloud/gcs_file_system.h",
+"bytes": 2082
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/profile_utils/i_cpu_utils_helper.h",
+"bytes": 1195
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/profile_utils/clock_cycle_profiler.h",
+"bytes": 1221
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/profile_utils/cpu_utils.h",
+"bytes": 1326
+},
+{
+"path": "third_party/tflite/src/tensorflow/core/platform/profile_utils/android_armv7a_cpu_utils_helper.h",
+"bytes": 1617
+}
+]

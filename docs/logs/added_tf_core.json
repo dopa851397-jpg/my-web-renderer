@@ -1,0 +1,178 @@
+[
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/arena.h",
+"bytes": 3815
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/errors.h",
+"bytes": 873
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/refcount.h",
+"bytes": 881
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/raw_coding.h",
+"bytes": 889
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/bits.h",
+"bytes": 1370
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/notification.h",
+"bytes": 821
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/error_codes.proto",
+"bytes": 776
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/threadpool.h",
+"bytes": 889
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/coding.h",
+"bytes": 1103
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/stringpiece.h",
+"bytes": 1370
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/arena.cc",
+"bytes": 9471
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/threadpool_options.h",
+"bytes": 921
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/threadpool_interface.h",
+"bytes": 929
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/bitmap.h",
+"bytes": 966
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/core/status.h",
+"bytes": 873
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/cleanup.h",
+"bytes": 3525
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/map_util.h",
+"bytes": 1471
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/flatmap.h",
+"bytes": 1169
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/priority_queue_util.h",
+"bytes": 1983
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/compactptrset.h",
+"bytes": 1027
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/flatset.h",
+"bytes": 991
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/manual_constructor.h",
+"bytes": 9239
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/edit_distance.h",
+"bytes": 3994
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/iterator_range.h",
+"bytes": 1516
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/int_type.h",
+"bytes": 998
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/inlined_vector.h",
+"bytes": 1264
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/flatrep.h",
+"bytes": 1047
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/array_slice.h",
+"bytes": 1322
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/top_n.h",
+"bytes": 13304
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/gtl/subtle/map_traits.h",
+"bytes": 1669
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/str_util.h",
+"bytes": 890
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/stringprintf.h",
+"bytes": 1139
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/proto_text_util.h",
+"bytes": 6028
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/ordered_code.cc",
+"bytes": 18464
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/base64.h",
+"bytes": 858
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/strcat.h",
+"bytes": 1003
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/numbers.h",
+"bytes": 862
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/ordered_code.h",
+"bytes": 4139
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/proto_serialization.h",
+"bytes": 1201
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/proto_text_util.cc",
+"bytes": 2009
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/strings/scanner.h",
+"bytes": 886
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/math/math_util.h",
+"bytes": 1093
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/hash/crc32c.h",
+"bytes": 1303
+},
+{
+"path": "./third_party/tflite/src/tensorflow/core/lib/hash/hash.h",
+"bytes": 901
+}
+]

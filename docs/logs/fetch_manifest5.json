@@ -1,0 +1,47 @@
+{
+ "components_webrtc": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/components/webrtc.tar.gz",
+  "sha256": "f87f58f13d95dcea98e82b240237663d7117fa31157c7009b38f3f9152623638",
+  "archive_bytes": 34308
+ },
+ "blink_pubcommon_webrtc": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/common/webrtc.tar.gz",
+  "sha256": "f95bf425fd922789eb0c332a61f2ededd2a37ddc71099e888935810343fec869",
+  "archive_bytes": 1296
+ },
+ "webrtc_aec3_neural": {
+  "url": "https://webrtc.googlesource.com/src/+archive/fb1c41a93d92d4188f068f437d80ef2c4b50c3a9/modules/audio_processing/aec3/neural_residual_echo_estimator.tar.gz",
+  "sha256": "b07a880b18bb3e5d2e5c8a6c4448d2f711b2762c3334e6dff39c1e56b99ffad9",
+  "archive_bytes": 24046
+ },
+ "farmhash": {
+  "url": "https://chromium.googlesource.com/external/github.com/google/farmhash/+archive/9d99331eb762e9ee22fd97d15a594525ad98310a.tar.gz",
+  "sha256": "f7239115b815963c6290214ea1dddb0bbc7fa3b9b44dc323034744d64af3f919",
+  "archive_bytes": 470104
+ },
+ "flatbuffers": {
+  "url": "https://chromium.googlesource.com/external/github.com/google/flatbuffers/+archive/a86afae9399bbe631d1ea0783f8816e780e236cc.tar.gz",
+  "sha256": "0b67bccc0d2a2a44dfafab2ae841d3f8579b0d6064edfde56bf9379ca8cfb4cf",
+  "archive_bytes": 2436903
+ },
+ "gemmlowp": {
+  "url": "https://chromium.googlesource.com/external/github.com/google/gemmlowp/+archive/16e8662c34917be0065110bfcd9cc27d30f52fdf.tar.gz",
+  "sha256": "a53782a5d609e41f5afa51ec3cfd54714cb56938d46f4e4a2513b284c9575747",
+  "archive_bytes": 847649
+ },
+ "ruy": {
+  "url": "https://chromium.googlesource.com/external/github.com/google/ruy/+archive/2264753777198e4393fb83c44c693462d57a2be1.tar.gz",
+  "sha256": "06c28c37d6d7f750b79945f63df2bbd250f7cf632f60f76d92cf210977f9e508",
+  "archive_bytes": 288410
+ },
+ "tflite_lite": {
+  "url": "https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+archive/201e0b2f5e7469145e4c37efb7459eea0b7a79d5/tensorflow/lite.tar.gz",
+  "sha256": "0918e2bca91b05e9a4f58de7b7a8cf9ee0bb91c040e9ef1bb095e291cc0057f6",
+  "archive_bytes": 23298666
+ },
+ "tflite_core_platform": {
+  "url": "https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+archive/201e0b2f5e7469145e4c37efb7459eea0b7a79d5/tensorflow/core/platform.tar.gz",
+  "sha256": "8c3c178c1c79611a01c4c90352fa45c3530e8c613a4178339f0c07d93043d966",
+  "archive_bytes": 58869
+ }
+}

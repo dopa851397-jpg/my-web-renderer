@@ -1,0 +1,37 @@
+{
+ "cdm_api": {
+  "url": "https://chromium.googlesource.com/chromium/cdm/+archive/d6c4e1ea4c8fc3dcd98ac3ab5a981f63067223a4.tar.gz",
+  "sha256": "0c4bb1ef0c47d008c16802bb1fdfe27675c1afdfcb7edc2fc1b90966214c3e1f",
+  "archive_bytes": 15114
+ },
+ "sframe": {
+  "url": "https://chromium.googlesource.com/external/github.com/cisco/sframe/+archive/6a37f061f4eda0c6594c91ecf99b5ff498c8c124.tar.gz",
+  "sha256": "43fce37a52a6b6892b0f971d26a7486aade81eb98e09b82f43f1e1956ded6bba",
+  "archive_bytes": 77457
+ },
+ "blink_pubplat_video_capture": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/public/platform/modules/video_capture.tar.gz",
+  "sha256": "6eb4784d5e22439da59fd616805980a8ca6745ab880d538e64d53560dbf0a59e",
+  "archive_bytes": 2814
+ },
+ "blink_platform_p2p": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/third_party/blink/renderer/platform/p2p.tar.gz",
+  "sha256": "67bcd81e3a5c93ac3df6840724d69f3fc93abe2ea51211ee3024a19d2863b3f0",
+  "archive_bytes": 32951
+ },
+ "net_reporting": {
+  "url": "https://chromium.googlesource.com/chromium/src/+archive/1de57fa19722fa6d6841d4f596c394d015580656/net/reporting.tar.gz",
+  "sha256": "398b99c89095f4aebadad340213bf0703fb359ebbabb32779ba157198836ffc3",
+  "archive_bytes": 109481
+ },
+ "spirv_headers_inc": {
+  "url": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Headers/+archive/fbf86836a9b1966586faf7be7bb8a6440e156d62/include/spirv/unified1.tar.gz",
+  "sha256": "b338908e35e987a86c1e5ccfc8f317034e06aa25736b1d057fd11901cbcb26a1",
+  "archive_bytes": 344427
+ },
+ "pffft": {
+  "url": "https://bitbucket.org/jpommier/pffft/get/master.tar.gz",
+  "sha256": "2b989cb3d96391d43be20e2147a290b4ea43131fb4ae21c0d64e8dc893ee3afe",
+  "archive_bytes": 46416
+ }
+}
